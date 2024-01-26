@@ -1,0 +1,72 @@
+Median without outliers for 1001-156 : 1306.0
+Median without outliers for 1002-17a : 975.0
+Median without outliers for 1003-116 : 450.0
+Median without outliers for 1004-136 : 813.0
+Median without outliers for 1007-126 : 1041.75
+Median without outliers for 1008-14a : 748.5
+Median without outliers for 1009-168 : 1569.5
+Median without outliers for 1010-188 : 1280.0
+Median without outliers for 1013-176 : 827.5
+Median without outliers for 1014-15a : 599.5
+Median without outliers for 1015-12a : 594.0
+Median without outliers for 1016-14a : 1339.5
+Median without outliers for 1018-166 : 484.5
+Median without outliers for 1019-186 : 1238.0
+Median without outliers for 1021-156 : 1801.0
+Median without outliers for 1022-176 : 936.5
+Median without outliers for 1025-116 : 344.0
+Median without outliers for 1026-136 : 191.0
+Median without outliers for 1027-166 : 1238.5
+Median without outliers for 1028-18a : 1152.5
+Median without outliers for 1035-136 : 1133.0
+Median without outliers for 1036-11a : 941.0
+Median without outliers for 1044-24a : 1072.0
+Median without outliers for 1046-134 : 555.5
+Median without outliers for 1047-114 : 1123.5
+Median without outliers for 1055-166 : 361.75
+Median without outliers for 1056-186 : 319.25
+Median without outliers for 1063-000 : 497.0
+Median without outliers for 1064-000 : 1027.5
+Median without outliers for 1065-000 : 1276.0
+Median without outliers for 1005-23a - direction 1 : 960.5
+Median without outliers for 1005-23a - direction 2 : 722.5
+Median without outliers for 1006-22a - direction 1 : 1333.0
+Median without outliers for 1006-22a - direction 2 : 537.0
+Median without outliers for 1011-21a - direction 1 : 279.75
+Median without outliers for 1011-21a - direction 2 : 650.0
+Median without outliers for 1012-236 - direction 1 : 548.0
+Median without outliers for 1012-236 - direction 2 : 415.5
+Median without outliers for 1017-246 - direction 1 : 422.75
+Median without outliers for 1017-246 - direction 2 : 623.5
+Median without outliers for 1023-266 - direction 1 : 992.0
+Median without outliers for 1023-266 - direction 2 : 604.25
+Median without outliers for 1030-246 - direction 1 : 435.0
+Median without outliers for 1030-246 - direction 2 : 247.0
+Median without outliers for 1034-216 - direction 1 : 782.25
+Median without outliers for 1034-216 - direction 2 : 546.5
+Median without outliers for 1038-276 - direction 1 : 535.0
+Median without outliers for 1038-276 - direction 2 : 354.5
+Median without outliers for 1040-236 - direction 1 : 141.5
+Median without outliers for 1040-236 - direction 2 : 685.5
+Median without outliers for 1043-246 - direction 1 : 149.0
+Median without outliers for 1043-246 - direction 2 : 536.0
+Median without outliers for 1045-216 - direction 1 : 325.75
+Median without outliers for 1045-216 - direction 2 : 210.0
+Median without outliers for 1050-23a - direction 1 : 620.75
+Median without outliers for 1050-23a - direction 2 : 273.5
+Median without outliers for 1051-23a - direction 1 : 457.0
+Median without outliers for 1051-23a - direction 2 : 268.0
+Median without outliers for 1052-21a - direction 1 : 464.5
+Median without outliers for 1052-21a - direction 2 : 189.5
+Median without outliers for 1057-256 - direction 1 : 26.0
+Median without outliers for 1057-256 - direction 2 : 167.25
+Median without outliers for 1058-25a - direction 1 : 206.5
+Median without outliers for 1058-25a - direction 2 : 888.0
+Median without outliers for 1059-246 - direction 1 : 667.5
+Median without outliers for 1059-246 - direction 2 : 312.0
+Median without outliers for 1060-256 - direction 1 : 181.0
+Median without outliers for 1060-256 - direction 2 : 165.0
+Median without outliers for 1061-286 - direction 1 : 157.0
+Median without outliers for 1061-286 - direction 2 : 529.0
+Median without outliers for 1062-21a - direction 1 : 688.0
+Median without outliers for 1062-21a - direction 2 : 237.0
