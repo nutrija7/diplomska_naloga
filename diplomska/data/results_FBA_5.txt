@@ -1,0 +1,3017 @@
+<Solution 115703.000 at 0x13648e5f550>
+R0-unicevanje: M0-6968835 -->  0.0
+R1-unicevanje: M1-6969214 -->  0.0
+R2-unicevanje: M2-6983109 -->  0.0
+R3-unicevanje: M3-16147719 -->  0.0
+R4-unicevanje: M4-16147901 -->  0.0
+R5-unicevanje: M5-16148422 -->  1050.0
+R6-unicevanje: M6-16148865 -->  0.0
+R7-unicevanje: M7-16148883 -->  0.0
+R8-unicevanje: M8-16148888 -->  0.0
+R9-unicevanje: M9-16149404 -->  0.0
+R10-unicevanje: M10-16149602 -->  0.0
+R11-unicevanje: M11-16149637 -->  0.0
+R12-unicevanje: M12-16174171 -->  150.0
+R13-unicevanje: M13-16174178 -->  0.0
+R14-unicevanje: M14-16174181 -->  150.0
+R15-unicevanje: M15-16174183 -->  0.0
+R16-unicevanje: M16-16174184 -->  0.0
+R17-unicevanje: M17-16174193 -->  0.0
+R18-unicevanje: M18-16174197 -->  0.0
+R19-unicevanje: M19-16174201 -->  0.0
+R20-unicevanje: M20-16174204 -->  0.0
+R21-unicevanje: M21-16174228 -->  0.0
+R22-unicevanje: M22-16174287 -->  0.0
+R23-unicevanje: M23-16174351 -->  1050.0
+R24-unicevanje: M24-16174409 -->  150.0
+R25-unicevanje: M25-16174413 -->  0.0
+R26-unicevanje: M26-16179322 -->  0.0
+R27-unicevanje: M27-16179330 -->  0.0
+R28-unicevanje: M28-16179331 -->  0.0
+R29-unicevanje: M29-16179368 -->  0.0
+R30-unicevanje: M30-16179400 -->  0.0
+R31-unicevanje: M31-16179414 -->  0.0
+R32-unicevanje: M32-16179419 -->  0.0
+R33-unicevanje: M33-16179426 -->  0.0
+R34-unicevanje: M34-16179429 -->  0.0
+R35-unicevanje: M35-16179463 -->  64.0
+R36-unicevanje: M36-16190868 -->  812.25
+R37-unicevanje: M37-16190999 -->  150.0
+R38-unicevanje: M38-16196483 -->  0.0
+R39-unicevanje: M39-16196545 -->  0.0
+R40-unicevanje: M40-16196571 -->  300.0
+R41-unicevanje: M41-16202270 -->  0.0
+R42-unicevanje: M42-16202274 -->  0.0
+R43-unicevanje: M43-16202281 -->  0.0
+R44-unicevanje: M44-16202327 -->  0.0
+R45-unicevanje: M45-16202333 -->  0.0
+R46-unicevanje: M46-16202360 -->  0.0
+R47-unicevanje: M47-16204079 -->  0.0
+R48-unicevanje: M48-16325232 -->  0.0
+R49-unicevanje: M49-16325236 -->  0.0
+R50-unicevanje: M50-16325238 -->  0.0
+R51-unicevanje: M51-16325242 -->  0.0
+R52-unicevanje: M52-16325243 -->  0.0
+R53-unicevanje: M53-16325245 -->  0.0
+R54-unicevanje: M54-16325261 -->  0.0
+R55-unicevanje: M55-16373831 -->  151.75
+R56-unicevanje: M56-16373901 -->  0.0
+R57-unicevanje: M57-16373943 -->  0.0
+R58-unicevanje: M58-16797140 -->  0.0
+R59-unicevanje: M59-16797144 -->  0.0
+R60-unicevanje: M60-16817199 -->  300.0
+R61-unicevanje: M61-16817211 -->  1050.0
+R62-unicevanje: M62-16817221 -->  0.0
+R63-unicevanje: M63-16817224 -->  0.0
+R64-unicevanje: M64-16817227 -->  750.0
+R65-unicevanje: M65-16817236 -->  0.0
+R66-unicevanje: M66-16817239 -->  0.0
+R67-unicevanje: M67-16817247 -->  365.5
+R68-unicevanje: M68-16817259 -->  0.0
+R69-unicevanje: M69-16817271 -->  0.0
+R70-unicevanje: M70-16820742 -->  0.0
+R71-unicevanje: M71-16820750 -->  0.0
+R72-unicevanje: M72-20274503 -->  0.0
+R73-unicevanje: M73-20274505 -->  0.0
+R74-unicevanje: M74-20282615 -->  0.0
+R75-unicevanje: M75-26398264 -->  0.0
+R76-unicevanje: M76-26398273 -->  0.0
+R77-unicevanje: M77-26398280 -->  0.0
+R78-unicevanje: M78-26408352 -->  0.0
+R79-unicevanje: M79-26408357 -->  962.0
+R80-unicevanje: M80-26408358 -->  0.0
+R81-unicevanje: M81-26408363 -->  0.0
+R82-unicevanje: M82-26408364 -->  656.0
+R83-unicevanje: M83-26408370 -->  0.0
+R84-unicevanje: M84-26408373 -->  150.0
+R85-unicevanje: M85-26408387 -->  1050.0
+R86-unicevanje: M86-26408397 -->  0.0
+R87-unicevanje: M87-26408428 -->  1050.0
+R88-unicevanje: M88-26408431 -->  1050.0
+R89-unicevanje: M89-26408436 -->  0.0
+R90-unicevanje: M90-26408437 -->  0.0
+R91-unicevanje: M91-26408443 -->  0.0
+R92-unicevanje: M92-26408460 -->  0.0
+R93-unicevanje: M93-26408470 -->  150.0
+R94-unicevanje: M94-26408472 -->  0.0
+R95-unicevanje: M95-26408475 -->  1050.0
+R96-unicevanje: M96-26408478 -->  0.0
+R97-unicevanje: M97-26408480 -->  0.0
+R98-unicevanje: M98-26408483 -->  914.5
+R99-unicevanje: M99-26408486 -->  0.0
+R100-unicevanje: M100-26408493 -->  0.0
+R101-unicevanje: M101-26408495 -->  1050.0
+R102-unicevanje: M102-26408499 -->  150.0
+R103-unicevanje: M103-26408501 -->  1050.0
+R104-unicevanje: M104-26408505 -->  0.0
+R105-unicevanje: M105-26408534 -->  0.0
+R106-unicevanje: M106-26408543 -->  1050.0
+R107-unicevanje: M107-26408550 -->  1050.0
+R108-unicevanje: M108-26408553 -->  150.0
+R109-unicevanje: M109-26408555 -->  1050.0
+R110-unicevanje: M110-26408557 -->  150.0
+R111-unicevanje: M111-26408564 -->  150.0
+R112-unicevanje: M112-26408567 -->  0.0
+R113-unicevanje: M113-26408569 -->  1050.0
+R114-unicevanje: M114-26408572 -->  150.0
+R115-unicevanje: M115-26408575 -->  0.0
+R116-unicevanje: M116-26408579 -->  0.0
+R117-unicevanje: M117-26408584 -->  0.0
+R118-unicevanje: M118-26408593 -->  0.0
+R119-unicevanje: M119-26408594 -->  0.0
+R120-unicevanje: M120-26414453 -->  0.0
+R121-unicevanje: M121-26418271 -->  1050.0
+R122-unicevanje: M122-26418273 -->  0.0
+R123-unicevanje: M123-26418277 -->  0.0
+R124-unicevanje: M124-26432546 -->  1050.0
+R125-unicevanje: M125-26445379 -->  1050.0
+R126-unicevanje: M126-26445405 -->  1050.0
+R127-unicevanje: M127-26445406 -->  134.0
+R128-unicevanje: M128-26445423 -->  0.0
+R129-unicevanje: M129-26450655 -->  0.0
+R130-unicevanje: M130-26450660 -->  0.0
+R131-unicevanje: M131-26451661 -->  0.0
+R132-unicevanje: M132-26452249 -->  0.0
+R133-unicevanje: M133-26452257 -->  0.0
+R134-unicevanje: M134-26458504 -->  0.0
+R135-unicevanje: M135-26460540 -->  0.0
+R136-unicevanje: M136-26479302 -->  150.0
+R137-unicevanje: M137-26505755 -->  0.0
+R138-unicevanje: M138-26505758 -->  0.0
+R139-unicevanje: M139-26505760 -->  0.0
+R140-unicevanje: M140-26505761 -->  0.0
+R141-unicevanje: M141-26505763 -->  0.0
+R142-unicevanje: M142-26506016 -->  0.0
+R143-unicevanje: M143-26506027 -->  0.0
+R144-unicevanje: M144-26509554 -->  0.0
+R145-unicevanje: M145-26509603 -->  0.0
+R146-unicevanje: M146-26509611 -->  0.0
+R147-unicevanje: M147-26546531 -->  0.0
+R148-unicevanje: M148-26546534 -->  0.0
+R149-unicevanje: M149-26546554 -->  0.0
+R150-unicevanje: M150-26546558 -->  0.0
+R151-unicevanje: M151-26546559 -->  0.0
+R152-unicevanje: M152-26553935 -->  0.0
+R153-unicevanje: M153-26553941 -->  0.0
+R154-unicevanje: M154-26570320 -->  0.0
+R155-unicevanje: M155-26592507 -->  0.0
+R156-unicevanje: M156-26730402 -->  0.0
+R157-unicevanje: M157-26730404 -->  0.0
+R158-unicevanje: M158-27435157 -->  0.0
+R159-unicevanje: M159-27435171 -->  0.0
+R160-unicevanje: M160-27435305 -->  0.0
+R161-unicevanje: M161-27435306 -->  0.0
+R162-unicevanje: M162-27436012 -->  0.0
+R163-unicevanje: M163-28786835 -->  0.0
+R164-unicevanje: M164-28786837 -->  0.0
+R165-unicevanje: M165-28786839 -->  0.0
+R166-unicevanje: M166-28786863 -->  0.0
+R167-unicevanje: M167-28786871 -->  0.0
+R168-unicevanje: M168-28787015 -->  0.0
+R169-unicevanje: M169-28975783 -->  150.0
+R170-unicevanje: M170-29054938 -->  0.0
+R171-unicevanje: M171-29871597 -->  0.0
+R172-unicevanje: M172-29873954 -->  0.0
+R173-unicevanje: M173-30482323 -->  0.0
+R174-unicevanje: M174-30482326 -->  0.0
+R175-unicevanje: M175-30482327 -->  0.0
+R176-unicevanje: M176-30486662 -->  0.0
+R177-unicevanje: M177-30536863 -->  0.0
+R178-unicevanje: M178-30536866 -->  0.0
+R179-unicevanje: M179-30536868 -->  0.0
+R180-unicevanje: M180-30536871 -->  0.0
+R181-unicevanje: M181-30536874 -->  0.0
+R182-unicevanje: M182-30839784 -->  150.0
+R183-unicevanje: M183-30839912 -->  16.0
+R184-unicevanje: M184-30846178 -->  0.0
+R185-unicevanje: M185-30846183 -->  0.0
+R186-unicevanje: M186-31025200 -->  0.0
+R187-unicevanje: M187-31297421 -->  0.0
+R188-unicevanje: M188-31404192 -->  1050.0
+R189-unicevanje: M189-31404623 -->  0.0
+R190-unicevanje: M190-31581220 -->  0.0
+R191-unicevanje: M191-31587169 -->  0.0
+R192-unicevanje: M192-31598259 -->  0.0
+R193-unicevanje: M193-31598260 -->  0.0
+R194-unicevanje: M194-31598265 -->  0.0
+R195-unicevanje: M195-31624893 -->  0.0
+R196-unicevanje: M196-31624897 -->  0.0
+R197-unicevanje: M197-31815754 -->  0.0
+R198-unicevanje: M198-31860333 -->  1050.0
+R199-unicevanje: M199-33632654 -->  0.0
+R200-unicevanje: M200-33632712 -->  0.0
+R201-unicevanje: M201-33632882 -->  0.0
+R202-unicevanje: M202-33638473 -->  0.0
+R203-unicevanje: M203-33638825 -->  0.0
+R204-unicevanje: M204-33699959 -->  0.0
+R205-unicevanje: M205-36972282 -->  0.0
+R206-unicevanje: M206-36975365 -->  1050.0
+R207-unicevanje: M207-43545221 -->  355.5
+R208-unicevanje: M208-43560817 -->  1050.0
+R209-unicevanje: M209-43560818 -->  150.0
+R210-unicevanje: M210-47844772 -->  0.0
+R211-unicevanje: M211-47923535 -->  0.0
+R212-unicevanje: M212-49369723 -->  0.0
+R213-unicevanje: M213-49914591 -->  0.0
+R214-unicevanje: M214-49922101 -->  0.0
+R215-unicevanje: M215-50102815 -->  0.0
+R216-unicevanje: M216-50102819 -->  0.0
+R217-unicevanje: M217-50102830 -->  0.0
+R218-unicevanje: M218-50102852 -->  0.0
+R219-unicevanje: M219-50102864 -->  0.0
+R220-unicevanje: M220-50102951 -->  1050.0
+R221-unicevanje: M221-50103726 -->  0.0
+R222-unicevanje: M222-50103728 -->  0.0
+R223-unicevanje: M223-50103729 -->  0.0
+R224-unicevanje: M224-50103752 -->  0.0
+R225-unicevanje: M225-50103822 -->  0.0
+R226-unicevanje: M226-50103824 -->  599.5
+R227-unicevanje: M227-50103874 -->  0.0
+R228-unicevanje: M228-50103879 -->  0.0
+R229-unicevanje: M229-50103889 -->  0.0
+R230-unicevanje: M230-50103978 -->  387.0
+R231-unicevanje: M231-50104120 -->  0.0
+R232-unicevanje: M232-50824140 -->  0.0
+R233-unicevanje: M233-50825110 -->  0.0
+R234-unicevanje: M234-53407866 -->  0.0
+R235-unicevanje: M235-53407881 -->  0.0
+R236-unicevanje: M236-53456804 -->  0.0
+R237-unicevanje: M237-53456807 -->  0.0
+R238-unicevanje: M238-53456933 -->  0.0
+R239-unicevanje: M239-54023542 -->  0.0
+R240-unicevanje: M240-54023554 -->  0.0
+R241-unicevanje: M241-54188757 -->  0.0
+R242-unicevanje: M242-54698002 -->  0.0
+R243-unicevanje: M243-56668363 -->  1050.0
+R244-unicevanje: M244-56668370 -->  150.0
+R245-unicevanje: M245-59147188 -->  0.0
+R246-unicevanje: M246-59147192 -->  0.0
+R247-unicevanje: M247-59150869 -->  1050.0
+R248-unicevanje: M248-59153230 -->  0.0
+R249-unicevanje: M249-59154432 -->  0.0
+R250-unicevanje: M250-59161484 -->  0.0
+R251-unicevanje: M251-59912334 -->  0.0
+R252-unicevanje: M252-59916001 -->  0.0
+R253-unicevanje: M253-59916004 -->  0.0
+R254-unicevanje: M254-59916011 -->  0.0
+R255-unicevanje: M255-59916013 -->  1050.0
+R256-unicevanje: M256-59940116 -->  0.0
+R257-unicevanje: M257-59940119 -->  0.0
+R258-unicevanje: M258-59940128 -->  0.0
+R259-unicevanje: M259-59994899 -->  0.0
+R260-unicevanje: M260-60361369 -->  0.0
+R261-unicevanje: M261-60640997 -->  0.0
+R262-unicevanje: M262-60642222 -->  0.0
+R263-unicevanje: M263-60642571 -->  103.25
+R264-unicevanje: M264-60646560 -->  0.0
+R265-unicevanje: M265-60697534 -->  0.0
+R266-unicevanje: M266-60735313 -->  0.0
+R267-unicevanje: M267-60735316 -->  0.0
+R268-unicevanje: M268-60735320 -->  0.0
+R269-unicevanje: M269-60735457 -->  0.0
+R270-unicevanje: M270-60735479 -->  0.0
+R271-unicevanje: M271-60735502 -->  1050.0
+R272-unicevanje: M272-60735549 -->  0.0
+R273-unicevanje: M273-60735551 -->  0.0
+R274-unicevanje: M274-60735583 -->  0.0
+R275-unicevanje: M275-60735584 -->  0.0
+R276-unicevanje: M276-60839508 -->  150.0
+R277-unicevanje: M277-60876246 -->  0.0
+R278-unicevanje: M278-60885045 -->  1050.0
+R279-unicevanje: M279-60920870 -->  0.0
+R280-unicevanje: M280-60952710 -->  1050.0
+R281-unicevanje: M281-60952715 -->  0.0
+R282-unicevanje: M282-61155931 -->  0.0
+R283-unicevanje: M283-61158170 -->  150.0
+R284-unicevanje: M284-61738609 -->  0.0
+R285-unicevanje: M285-61739566 -->  0.0
+R286-unicevanje: M286-61739721 -->  0.0
+R287-unicevanje: M287-64877802 -->  0.0
+R288-unicevanje: M288-64885964 -->  0.0
+R289-unicevanje: M289-65185641 -->  0.0
+R290-unicevanje: M290-65185643 -->  0.0
+R291-unicevanje: M291-87285974 -->  0.0
+R292-unicevanje: M292-95054526 -->  1050.0
+R293-unicevanje: M293-96072107 -->  1050.0
+R294-unicevanje: M294-96072218 -->  0.0
+R295-unicevanje: M295-96072424 -->  0.0
+R296-unicevanje: M296-96072736 -->  0.0
+R297-unicevanje: M297-96073150 -->  0.0
+R298-unicevanje: M298-96073287 -->  0.0
+R299-unicevanje: M299-96073377 -->  0.0
+R300-unicevanje: M300-96073388 -->  0.0
+R301-unicevanje: M301-96073566 -->  150.0
+R302-unicevanje: M302-96073567 -->  0.0
+R303-unicevanje: M303-96076140 -->  0.0
+R304-unicevanje: M304-96903322 -->  0.0
+R305-unicevanje: M305-114136375 -->  0.0
+R306-unicevanje: M306-114136386 -->  150.0
+R307-unicevanje: M307-114136387 -->  0.0
+R308-unicevanje: M308-114136394 -->  0.0
+R309-unicevanje: M309-114138641 -->  0.0
+R310-unicevanje: M310-118923260 -->  0.0
+R311-unicevanje: M311-118924878 -->  0.0
+R312-unicevanje: M312-118924882 -->  0.0
+R313-unicevanje: M313-118924884 -->  0.0
+R314-unicevanje: M314-119807973 -->  0.0
+R315-unicevanje: M315-119807974 -->  0.0
+R316-unicevanje: M316-119810196 -->  0.0
+R317-unicevanje: M317-119822314 -->  0.0
+R318-unicevanje: M318-119822318 -->  0.0
+R319-unicevanje: M319-119826914 -->  0.0
+R320-unicevanje: M320-119828738 -->  1050.0
+R321-unicevanje: M321-119828741 -->  0.0
+R322-unicevanje: M322-119833641 -->  1050.0
+R323-unicevanje: M323-119858107 -->  0.0
+R324-unicevanje: M324-119858737 -->  0.0
+R325-unicevanje: M325-119861846 -->  0.0
+R326-unicevanje: M326-119887477 -->  0.0
+R327-unicevanje: M327-119897327 -->  0.0
+R328-unicevanje: M328-119905088 -->  0.0
+R329-unicevanje: M329-119906015 -->  0.0
+R330-unicevanje: M330-140343212 -->  0.0
+R331-unicevanje: M331-145639980 -->  0.0
+R332-unicevanje: M332-145692425 -->  0.0
+R333-unicevanje: M333-145916690 -->  150.0
+R334-unicevanje: M334-162236296 -->  0.0
+R335-unicevanje: M335-165218631 -->  0.0
+R336-unicevanje: M336-165219096 -->  0.0
+R337-unicevanje: M337-178880698 -->  0.0
+R338-unicevanje: M338-178886187 -->  0.0
+R339-unicevanje: M339-235324117 -->  0.0
+R340-unicevanje: M340-235326252 -->  0.0
+R341-unicevanje: M341-235327098 -->  1050.0
+R342-unicevanje: M342-235329965 -->  334.25
+R343-unicevanje: M343-235883080 -->  0.0
+R344-unicevanje: M344-235884356 -->  0.0
+R345-unicevanje: M345-248067036 -->  0.0
+R346-unicevanje: M346-248067037 -->  0.0
+R347-unicevanje: M347-248067269 -->  0.0
+R348-unicevanje: M348-248067594 -->  0.0
+R349-unicevanje: M349-248067614 -->  0.0
+R350-unicevanje: M350-248071635 -->  150.0
+R351-unicevanje: M351-248071682 -->  0.0
+R352-unicevanje: M352-248071903 -->  1050.0
+R353-unicevanje: M353-248071904 -->  1050.0
+R354-unicevanje: M354-248933118 -->  0.0
+R355-unicevanje: M355-248959274 -->  0.0
+R356-unicevanje: M356-249335932 -->  0.0
+R357-unicevanje: M357-255161937 -->  0.0
+R358-unicevanje: M358-269174389 -->  1050.0
+R359-unicevanje: M359-269548288 -->  0.0
+R360-unicevanje: M360-271009799 -->  0.0
+R361-unicevanje: M361-271009865 -->  0.0
+R362-unicevanje: M362-271009997 -->  0.0
+R363-unicevanje: M363-271010011 -->  150.0
+R364-unicevanje: M364-271010035 -->  0.0
+R365-unicevanje: M365-271010043 -->  0.0
+R366-unicevanje: M366-271010120 -->  0.0
+R367-unicevanje: M367-271234530 -->  0.0
+R368-unicevanje: M368-275313548 -->  910.5
+R369-unicevanje: M369-275313568 -->  0.0
+R370-unicevanje: M370-275313583 -->  0.0
+R371-unicevanje: M371-278564769 -->  0.0
+R372-unicevanje: M372-278801696 -->  844.5
+R373-unicevanje: M373-279305901 -->  0.0
+R374-unicevanje: M374-279305922 -->  0.0
+R375-unicevanje: M375-279305925 -->  150.0
+R376-unicevanje: M376-279305939 -->  0.0
+R377-unicevanje: M377-280045473 -->  0.0
+R378-unicevanje: M378-280045474 -->  0.0
+R379-unicevanje: M379-311629460 -->  0.0
+R380-unicevanje: M380-311629659 -->  0.0
+R381-unicevanje: M381-371415083 -->  0.0
+R382-unicevanje: M382-371415087 -->  1050.0
+R383-unicevanje: M383-371416578 -->  0.0
+R384-unicevanje: M384-371723673 -->  0.0
+R385-unicevanje: M385-371723676 -->  0.0
+R386-unicevanje: M386-371729746 -->  0.0
+R387-unicevanje: M387-379037580 -->  0.0
+R388-unicevanje: M388-385115170 -->  0.0
+R389-unicevanje: M389-395506341 -->  0.0
+R390-unicevanje: M390-395537980 -->  1050.0
+R391-unicevanje: M391-409494432 -->  1050.0
+R392-unicevanje: M392-415307749 -->  0.0
+R393-unicevanje: M393-420381853 -->  0.0
+R394-unicevanje: M394-427707165 -->  150.0
+R395-unicevanje: M395-438174907 -->  0.0
+R396-unicevanje: M396-438174911 -->  0.0
+R397-unicevanje: M397-443120833 -->  0.0
+R398-unicevanje: M398-450132038 -->  0.0
+R399-unicevanje: M399-450132051 -->  0.0
+R400-unicevanje: M400-474737194 -->  0.0
+R401-unicevanje: M401-474737197 -->  0.0
+R402-unicevanje: M402-474737209 -->  0.0
+R403-unicevanje: M403-474741035 -->  0.0
+R404-unicevanje: M404-474741048 -->  0.0
+R405-unicevanje: M405-474741054 -->  0.0
+R406-unicevanje: M406-475349687 -->  0.0
+R407-unicevanje: M407-476270549 -->  0.0
+R408-unicevanje: M408-476270555 -->  0.0
+R409-unicevanje: M409-476272432 -->  0.0
+R410-unicevanje: M410-476272433 -->  0.0
+R411-unicevanje: M411-476283324 -->  0.0
+R412-unicevanje: M412-476283351 -->  0.0
+R413-unicevanje: M413-476283357 -->  0.0
+R414-unicevanje: M414-476283358 -->  0.0
+R415-unicevanje: M415-476283359 -->  0.0
+R416-unicevanje: M416-476283363 -->  0.0
+R417-unicevanje: M417-476287150 -->  0.0
+R418-unicevanje: M418-476287156 -->  0.0
+R419-unicevanje: M419-476287161 -->  0.0
+R420-unicevanje: M420-476287164 -->  0.0
+R421-unicevanje: M421-476299515 -->  0.0
+R422-unicevanje: M422-476299547 -->  0.0
+R423-unicevanje: M423-476312112 -->  0.0
+R424-unicevanje: M424-476312113 -->  0.0
+R425-unicevanje: M425-476312116 -->  0.0
+R426-unicevanje: M426-476312121 -->  888.0
+R427-unicevanje: M427-476458623 -->  0.0
+R428-unicevanje: M428-476458624 -->  0.0
+R429-unicevanje: M429-476458625 -->  0.0
+R430-unicevanje: M430-476458626 -->  0.0
+R431-unicevanje: M431-476458633 -->  0.0
+R432-unicevanje: M432-476458634 -->  0.0
+R433-unicevanje: M433-476458636 -->  0.0
+R434-unicevanje: M434-476458642 -->  0.0
+R435-unicevanje: M435-476458645 -->  0.0
+R436-unicevanje: M436-476458649 -->  0.0
+R437-unicevanje: M437-476567808 -->  0.0
+R438-unicevanje: M438-476567834 -->  0.0
+R439-unicevanje: M439-476567837 -->  0.0
+R440-unicevanje: M440-476567860 -->  0.0
+R441-unicevanje: M441-476567862 -->  0.0
+R442-unicevanje: M442-476567870 -->  0.0
+R443-unicevanje: M443-476567872 -->  0.0
+R444-unicevanje: M444-476567894 -->  0.0
+R445-unicevanje: M445-476682359 -->  0.0
+R446-unicevanje: M446-479190619 -->  0.0
+R447-unicevanje: M447-479720191 -->  0.0
+R448-unicevanje: M448-480393063 -->  0.0
+R449-unicevanje: M449-533705481 -->  1050.0
+R450-unicevanje: M450-533705485 -->  1050.0
+R451-unicevanje: M451-774117067 -->  0.0
+R452-unicevanje: M452-774117077 -->  0.0
+R453-unicevanje: M453-774117364 -->  0.0
+R454-unicevanje: M454-774117695 -->  0.0
+R455-unicevanje: M455-774117712 -->  0.0
+R456-unicevanje: M456-774117716 -->  0.0
+R457-unicevanje: M457-795880502 -->  0.0
+R458-unicevanje: M458-797783801 -->  0.0
+R459-unicevanje: M459-797783806 -->  0.0
+R460-unicevanje: M460-968461756 -->  1050.0
+R461-unicevanje: M461-1198732787 -->  0.0
+R462-unicevanje: M462-1207441440 -->  0.0
+R463-unicevanje: M463-1257135115 -->  0.0
+R464-unicevanje: M464-1257135117 -->  0.0
+R465-unicevanje: M465-1257135118 -->  0.0
+R466-unicevanje: M466-1257135121 -->  0.0
+R467-unicevanje: M467-1257135129 -->  0.0
+R468-unicevanje: M468-1257135133 -->  0.0
+R469-unicevanje: M469-1259554700 -->  0.0
+R470-unicevanje: M470-1305345850 -->  0.0
+R471-unicevanje: M471-1305345853 -->  0.0
+R472-unicevanje: M472-1305345861 -->  0.0
+R473-unicevanje: M473-1321537613 -->  0.0
+R474-unicevanje: M474-1324453021 -->  0.0
+R475-unicevanje: M475-1332865333 -->  0.0
+R476-unicevanje: M476-1353828394 -->  0.0
+R477-unicevanje: M477-1363432172 -->  0.0
+R478-unicevanje: M478-1400425687 -->  0.0
+R479-unicevanje: M479-1535157182 -->  0.0
+R480-unicevanje: M480-1627101302 -->  0.0
+R481-unicevanje: M481-1627101315 -->  0.0
+R482-unicevanje: M482-1627225734 -->  0.0
+R483-unicevanje: M483-1627225747 -->  0.0
+R484-unicevanje: M484-1630655988 -->  0.0
+R485-unicevanje: M485-1630656013 -->  0.0
+R486-unicevanje: M486-1631431651 -->  0.0
+R487-unicevanje: M487-1631431654 -->  0.0
+R488-unicevanje: M488-1631446853 -->  0.0
+R489-unicevanje: M489-1631446869 -->  0.0
+R490-unicevanje: M490-1631446875 -->  0.0
+R491-unicevanje: M491-1632640893 -->  0.0
+R492-unicevanje: M492-1634304125 -->  1050.0
+R493-unicevanje: M493-1634304127 -->  0.0
+R494-unicevanje: M494-1636643767 -->  0.0
+R495-unicevanje: M495-1642106821 -->  0.0
+R496-unicevanje: M496-1642106828 -->  0.0
+R497-unicevanje: M497-1645738980 -->  0.0
+R498-unicevanje: M498-1645738985 -->  1050.0
+R499-unicevanje: M499-1647926811 -->  0.0
+R500-unicevanje: M500-1647927633 -->  0.0
+R501-unicevanje: M501-1647939146 -->  0.0
+R502-unicevanje: M502-1647939148 -->  0.0
+R503-unicevanje: M503-1647939151 -->  1050.0
+R504-unicevanje: M504-1648495036 -->  150.0
+R505-unicevanje: M505-1648568462 -->  0.0
+R506-unicevanje: M506-1650833632 -->  1050.0
+R507-unicevanje: M507-1650833637 -->  0.0
+R508-unicevanje: M508-1650878266 -->  0.0
+R509-unicevanje: M509-1653007098 -->  0.0
+R510-unicevanje: M510-1653007107 -->  0.0
+R511-unicevanje: M511-1653007110 -->  0.0
+R512-unicevanje: M512-1653007113 -->  0.0
+R513-unicevanje: M513-1653007127 -->  0.0
+R514-unicevanje: M514-1712884258 -->  0.0
+R515-unicevanje: M515-1747510585 -->  0.0
+R516-unicevanje: M516-1764224977 -->  0.0
+R517-unicevanje: M517-1773518785 -->  0.0
+R518-unicevanje: M518-1773518794 -->  0.0
+R519-unicevanje: M519-1776898706 -->  0.0
+R520-unicevanje: M520-1783897612 -->  0.0
+R521-unicevanje: M521-1786421310 -->  0.0
+R522-unicevanje: M522-1797002843 -->  0.0
+R523-unicevanje: M523-1825508387 -->  0.0
+R524-unicevanje: M524-1829597776 -->  0.0
+R525-unicevanje: M525-1829597779 -->  0.0
+R526-unicevanje: M526-1852229780 -->  0.0
+R527-unicevanje: M527-1917615134 -->  0.0
+R528-unicevanje: M528-1917615158 -->  0.0
+R529-unicevanje: M529-1917615164 -->  0.0
+R530-unicevanje: M530-1917615167 -->  1050.0
+R531-unicevanje: M531-1936740901 -->  0.0
+R532-unicevanje: M532-1951535121 -->  0.0
+R533-unicevanje: M533-1979228613 -->  0.0
+R534-unicevanje: M534-2027914713 -->  0.0
+R535-unicevanje: M535-2051805244 -->  1050.0
+R536-unicevanje: M536-2051805254 -->  1050.0
+R537-unicevanje: M537-2100663482 -->  0.0
+R538-unicevanje: M538-2219916232 -->  0.0
+R539-unicevanje: M539-2235814647 -->  0.0
+R540-unicevanje: M540-2348368305 -->  0.0
+R541-unicevanje: M541-2348395365 -->  0.0
+R542-unicevanje: M542-2418750095 -->  0.0
+R543-unicevanje: M543-2423779887 -->  0.0
+R544-unicevanje: M544-2440485974 -->  0.0
+R545-unicevanje: M545-2440485976 -->  0.0
+R546-unicevanje: M546-2461860989 -->  1050.0
+R547-unicevanje: M547-2520910726 -->  150.0
+R548-unicevanje: M548-2520910747 -->  0.0
+R549-unicevanje: M549-2526583893 -->  0.0
+R550-unicevanje: M550-2526583895 -->  0.0
+R551-unicevanje: M551-2527973191 -->  0.0
+R552-unicevanje: M552-2705620188 -->  0.0
+R553-unicevanje: M553-2715287430 -->  0.0
+R554-unicevanje: M554-2717181675 -->  0.0
+R555-unicevanje: M555-2776925711 -->  0.0
+R556-unicevanje: M556-2817666401 -->  0.0
+R557-unicevanje: M557-2818379103 -->  0.0
+R558-unicevanje: M558-2845144244 -->  0.0
+R559-unicevanje: M559-2845144248 -->  0.0
+R560-unicevanje: M560-2874464548 -->  312.0
+R561-unicevanje: M561-2964579218 -->  0.0
+R562-unicevanje: M562-2972697221 -->  0.0
+R563-unicevanje: M563-2972697231 -->  0.0
+R564-unicevanje: M564-2972697333 -->  0.0
+R565-unicevanje: M565-2973912038 -->  0.0
+R566-unicevanje: M566-2976939772 -->  0.0
+R567-unicevanje: M567-2979270056 -->  0.0
+R568-unicevanje: M568-2995472433 -->  0.0
+R569-unicevanje: M569-3063671644 -->  0.0
+R570-unicevanje: M570-3116918902 -->  0.0
+R571-unicevanje: M571-3160218387 -->  1050.0
+R572-unicevanje: M572-3168140934 -->  0.0
+R573-unicevanje: M573-3196822743 -->  0.0
+R574-unicevanje: M574-3196822744 -->  0.0
+R575-unicevanje: M575-3210392034 -->  0.0
+R576-unicevanje: M576-3210392036 -->  0.0
+R577-unicevanje: M577-3210392040 -->  0.0
+R578-unicevanje: M578-3215416066 -->  0.0
+R579-unicevanje: M579-3289887459 -->  0.0
+R580-unicevanje: M580-3299015888 -->  0.0
+R581-unicevanje: M581-3299015890 -->  0.0
+R582-unicevanje: M582-3302261396 -->  0.0
+R583-unicevanje: M583-3320241564 -->  0.0
+R584-unicevanje: M584-3496886208 -->  0.0
+R585-unicevanje: M585-3496886218 -->  0.0
+R586-unicevanje: M586-3500626460 -->  0.0
+R587-unicevanje: M587-3502419936 -->  1050.0
+R588-unicevanje: M588-3502422177 -->  0.0
+R589-unicevanje: M589-3502423089 -->  0.0
+R590-unicevanje: M590-3502423694 -->  1050.0
+R591-unicevanje: M591-3502423706 -->  0.0
+R592-unicevanje: M592-3502423707 -->  0.0
+R593-unicevanje: M593-3504669436 -->  0.0
+R594-unicevanje: M594-3512003994 -->  0.0
+R595-unicevanje: M595-3512003995 -->  0.0
+R596-unicevanje: M596-3512583527 -->  0.0
+R597-unicevanje: M597-3512583532 -->  0.0
+R598-unicevanje: M598-3598598236 -->  0.0
+R599-unicevanje: M599-3647660838 -->  0.0
+R600-unicevanje: M600-3662790707 -->  0.0
+R601-unicevanje: M601-3662790716 -->  0.0
+R602-unicevanje: M602-3662790724 -->  0.0
+R603-unicevanje: M603-3748330804 -->  0.0
+R604-unicevanje: M604-3799250216 -->  338.0
+R605-unicevanje: M605-3840775863 -->  0.0
+R606-unicevanje: M606-3952348101 -->  0.0
+R607-unicevanje: M607-4008186744 -->  0.0
+R608-unicevanje: M608-4019894910 -->  0.0
+R609-unicevanje: M609-4225596514 -->  0.0
+R610-unicevanje: M610-4225596515 -->  0.0
+R611-unicevanje: M611-4225596516 -->  0.0
+R612-unicevanje: M612-4409076007 -->  0.0
+R613-unicevanje: M613-4409076010 -->  0.0
+R614-unicevanje: M614-4453102273 -->  0.0
+R615-unicevanje: M615-4453102275 -->  0.0
+R616-unicevanje: M616-4739686523 -->  0.0
+R617-unicevanje: M617-4739686524 -->  0.0
+R618-unicevanje: M618-4739686531 -->  0.0
+R619-unicevanje: M619-4891558785 -->  0.0
+R620-unicevanje: M620-5030074415 -->  0.0
+R621-unicevanje: M621-5030075377 -->  0.0
+R622-unicevanje: M622-5030075433 -->  0.0
+R623-unicevanje: M623-5030075440 -->  0.0
+R624-unicevanje: M624-5030075442 -->  0.0
+R625-unicevanje: M625-5149834732 -->  0.0
+R626-unicevanje: M626-5149942001 -->  0.0
+R627-unicevanje: M627-5154793249 -->  0.0
+R628-unicevanje: M628-5219908847 -->  0.0
+R629-unicevanje: M629-5221318445 -->  0.0
+R630-unicevanje: M630-5221489903 -->  0.0
+R631-unicevanje: M631-5221489947 -->  0.0
+R632-unicevanje: M632-5230251438 -->  0.0
+R633-unicevanje: M633-5282407249 -->  0.0
+R634-unicevanje: M634-5282407252 -->  0.0
+R635-unicevanje: M635-5282439062 -->  0.0
+R636-unicevanje: M636-5310035837 -->  0.0
+R637-unicevanje: M637-5314587051 -->  0.0
+R638-unicevanje: M638-5314589269 -->  0.0
+R639-unicevanje: M639-5324379024 -->  0.0
+R640-unicevanje: M640-5640413598 -->  188.0
+R641-unicevanje: M641-5640926630 -->  0.0
+R642-unicevanje: M642-5655788498 -->  0.0
+R643-unicevanje: M643-5735600371 -->  0.0
+R644-unicevanje: M644-6053522967 -->  0.0
+R645-unicevanje: M645-6124295897 -->  0.0
+R646-unicevanje: M646-6178976728 -->  0.0
+R647-unicevanje: M647-6249466133 -->  0.0
+R648-unicevanje: M648-6264117645 -->  0.0
+R649-unicevanje: M649-6567966989 -->  0.0
+R650-unicevanje: M650-6646074121 -->  0.0
+R651-unicevanje: M651-6746853845 -->  0.0
+R652-unicevanje: M652-6746853846 -->  0.0
+R653-unicevanje: M653-6746853849 -->  0.0
+R654-unicevanje: M654-6746853851 -->  0.0
+R655-unicevanje: M655-6746853852 -->  0.0
+R656-unicevanje: M656-6746853855 -->  0.0
+R657-unicevanje: M657-6746853862 -->  0.0
+R658-unicevanje: M658-6746853869 -->  0.0
+R659-unicevanje: M659-6944630655 -->  0.0
+R660-unicevanje: M660-6944727118 -->  0.0
+R661-unicevanje: M661-6987752967 -->  0.0
+R662-unicevanje: M662-7539161881 -->  0.0
+R663-unicevanje: M663-7539161882 -->  0.0
+R664-unicevanje: M664-7702899933 -->  150.0
+R665-unicevanje: M665-7717604334 -->  0.0
+R666-unicevanje: M666-7717604344 -->  0.0
+R667-unicevanje: M667-7717604384 -->  0.0
+R668-unicevanje: M668-7731139118 -->  0.0
+R669-unicevanje: M669-7895270444 -->  0.0
+R670-unicevanje: M670-8032947845 -->  0.0
+R671-unicevanje: M671-8032964258 -->  0.0
+R672-unicevanje: M672-8051717192 -->  0.0
+R673-unicevanje: M673-8063813255 -->  0.0
+R674-unicevanje: M674-8063813261 -->  0.0
+R675-unicevanje: M675-8066980250 -->  0.0
+R676-unicevanje: M676-8079027576 -->  0.0
+R677-unicevanje: M677-8089336276 -->  0.0
+R678-unicevanje: M678-8090844545 -->  0.0
+R679-unicevanje: M679-8090844547 -->  0.0
+R680-unicevanje: M680-8090844551 -->  0.0
+R681-unicevanje: M681-8090844553 -->  0.0
+R682-unicevanje: M682-8090862962 -->  0.0
+R683-unicevanje: M683-8090862980 -->  0.0
+R684-unicevanje: M684-8090865705 -->  0.0
+R685-unicevanje: M685-8090865711 -->  0.0
+R686-unicevanje: M686-8090899168 -->  0.0
+R687-unicevanje: M687-8090899181 -->  0.0
+R688-unicevanje: M688-8090919969 -->  0.0
+R689-unicevanje: M689-8090919982 -->  0.0
+R690-unicevanje: M690-8109060856 -->  0.0
+R691-unicevanje: M691-8155315404 -->  0.0
+R692-unicevanje: M692-8155315405 -->  0.0
+R693-unicevanje: M693-8155315407 -->  0.0
+R694-unicevanje: M694-8155383118 -->  0.0
+R695-unicevanje: M695-8155383121 -->  0.0
+R696-unicevanje: M696-8155383122 -->  0.0
+R697-unicevanje: M697-8155383128 -->  0.0
+R698-unicevanje: M698-8162353573 -->  0.0
+R699-unicevanje: M699-8162402159 -->  0.0
+R700-unicevanje: M700-8165614345 -->  0.0
+R701-unicevanje: M701-8171408922 -->  0.0
+R702-unicevanje: M702-8171782893 -->  0.0
+R703-unicevanje: M703-8171925731 -->  0.0
+R704-unicevanje: M704-8171991024 -->  0.0
+R705-unicevanje: M705-8180094913 -->  0.0
+R706-unicevanje: M706-8188860527 -->  0.0
+R707-unicevanje: M707-8196147882 -->  0.0
+R708-unicevanje: M708-8196603055 -->  0.0
+R709-unicevanje: M709-8203834323 -->  0.0
+R710-unicevanje: M710-8203834329 -->  0.0
+R711-unicevanje: M711-8241131570 -->  0.0
+R712-unicevanje: M712-8241131572 -->  0.0
+R713-unicevanje: M713-8258312183 -->  0.0
+R714-unicevanje: M714-8258312186 -->  0.0
+R715-unicevanje: M715-8258312187 -->  0.0
+R716-unicevanje: M716-8258312190 -->  0.0
+R717-unicevanje: M717-8258312191 -->  0.0
+R718-unicevanje: M718-8258312196 -->  0.0
+R719-unicevanje: M719-8319548212 -->  150.0
+R720-unicevanje: M720-8319548214 -->  0.0
+R721-unicevanje: M721-8319550428 -->  1050.0
+R722-unicevanje: M722-8319550434 -->  0.0
+R723-unicevanje: M723-8319550435 -->  0.0
+R724-unicevanje: M724-8319550440 -->  0.0
+R725-unicevanje: M725-8319550441 -->  0.0
+R726-unicevanje: M726-8319550444 -->  0.0
+R727-unicevanje: M727-8319550445 -->  0.0
+R728-unicevanje: M728-8319550449 -->  0.0
+R729-unicevanje: M729-8319550450 -->  0.0
+R730-unicevanje: M730-8319550456 -->  0.0
+R731-unicevanje: M731-8397648836 -->  0.0
+R732-unicevanje: M732-8397648837 -->  0.0
+R733-unicevanje: M733-8397648839 -->  0.0
+R734-unicevanje: M734-8397657667 -->  0.0
+R735-unicevanje: M735-8397657668 -->  0.0
+R736-unicevanje: M736-8397657671 -->  0.0
+R737-unicevanje: M737-8397657674 -->  0.0
+R738-unicevanje: M738-8397664626 -->  0.0
+R739-unicevanje: M739-8397664627 -->  0.0
+R740-unicevanje: M740-8397664629 -->  0.0
+R741-unicevanje: M741-8412558488 -->  0.0
+R742-unicevanje: M742-8412558489 -->  0.0
+R743-unicevanje: M743-8412576382 -->  0.0
+R744-unicevanje: M744-8412576383 -->  0.0
+R745-unicevanje: M745-8412576384 -->  0.0
+R746-unicevanje: M746-8413081623 -->  0.0
+R747-unicevanje: M747-8413102509 -->  0.0
+R748-unicevanje: M748-8413102510 -->  289.5
+R749-unicevanje: M749-8413105423 -->  0.0
+R750-unicevanje: M750-8413105424 -->  0.0
+R751-unicevanje: M751-8413141268 -->  0.0
+R752-unicevanje: M752-8413141269 -->  0.0
+R753-unicevanje: M753-8413141270 -->  0.0
+R754-unicevanje: M754-8413141271 -->  0.0
+R755-unicevanje: M755-8413141286 -->  0.0
+R756-unicevanje: M756-8413141297 -->  0.0
+R757-unicevanje: M757-8413200820 -->  0.0
+R758-unicevanje: M758-8413200822 -->  0.0
+R759-unicevanje: M759-8493842241 -->  0.0
+R760-unicevanje: M760-8504589784 -->  0.0
+R761-unicevanje: M761-8530195655 -->  0.0
+R762-unicevanje: M762-8530195665 -->  0.0
+R763-unicevanje: M763-8533006462 -->  0.0
+R764-unicevanje: M764-8533006463 -->  0.0
+R765-unicevanje: M765-8538055102 -->  0.0
+R766-unicevanje: M766-8538055103 -->  0.0
+R767-unicevanje: M767-8538055110 -->  0.0
+R768-unicevanje: M768-8538055111 -->  0.0
+R769-unicevanje: M769-8540561860 -->  0.0
+R770-unicevanje: M770-8540561861 -->  0.0
+R771-unicevanje: M771-8541583150 -->  0.0
+R772-unicevanje: M772-8554461499 -->  0.0
+R773-unicevanje: M773-8554527986 -->  0.0
+R774-unicevanje: M774-8561847206 -->  0.0
+R775-unicevanje: M775-8562036460 -->  0.0
+R776-unicevanje: M776-8562036462 -->  0.0
+R777-unicevanje: M777-8562036521 -->  0.0
+R778-unicevanje: M778-8562036523 -->  0.0
+R779-unicevanje: M779-8562036551 -->  0.0
+R780-unicevanje: M780-8567559031 -->  0.0
+R781-unicevanje: M781-8567559033 -->  0.0
+R782-unicevanje: M782-8567559034 -->  0.0
+R783-unicevanje: M783-8567559036 -->  0.0
+R784-unicevanje: M784-8567559045 -->  0.0
+R785-unicevanje: M785-8567559051 -->  0.0
+R786-unicevanje: M786-8569299058 -->  0.0
+R787-unicevanje: M787-8570001522 -->  0.0
+R788-unicevanje: M788-8570001523 -->  0.0
+R789-unicevanje: M789-8570024596 -->  0.0
+R790-unicevanje: M790-8572991974 -->  0.0
+R791-unicevanje: M791-8593452537 -->  0.0
+R792-unicevanje: M792-8593452592 -->  0.0
+R793-unicevanje: M793-8593452597 -->  0.0
+R794-unicevanje: M794-8600324615 -->  0.0
+R795-unicevanje: M795-8600374925 -->  0.0
+R796-unicevanje: M796-8602325100 -->  0.0
+R797-unicevanje: M797-8602325105 -->  0.0
+R798-unicevanje: M798-8602325107 -->  0.0
+R799-unicevanje: M799-8653374399 -->  0.0
+R800-unicevanje: M800-8681129391 -->  0.0
+R801-unicevanje: M801-8685965657 -->  1050.0
+R802-unicevanje: M802-8702543668 -->  0.0
+R803-unicevanje: M803-9021364284 -->  0.0
+R804-unicevanje: M804-9021364286 -->  0.0
+R805-unicevanje: M805-9021364287 -->  0.0
+R806-unicevanje: M806-9021364295 -->  0.0
+R807-unicevanje: M807-9021364299 -->  0.0
+R808-unicevanje: M808-9022423244 -->  1050.0
+R809-unicevanje: M809-9023317250 -->  0.0
+R810-unicevanje: M810-9072216036 -->  0.0
+R811-unicevanje: M811-9072216037 -->  0.0
+R812-unicevanje: M812-9072216040 -->  0.0
+R813-unicevanje: M813-9092651596 -->  0.0
+R814-unicevanje: M814-9118662952 -->  0.0
+R815-unicevanje: M815-9118662955 -->  0.0
+R816-unicevanje: M816-9128031055 -->  0.0
+R817-unicevanje: M817-9128113135 -->  0.0
+R818-unicevanje: M818-9128113140 -->  0.0
+R819-unicevanje: M819-9130381311 -->  0.0
+R820-unicevanje: M820-9149350017 -->  0.0
+R821-unicevanje: M821-9149350026 -->  0.0
+R822-unicevanje: M822-9149350027 -->  0.0
+R823-unicevanje: M823-9149350032 -->  150.0
+R824-unicevanje: M824-9149547628 -->  0.0
+R825-unicevanje: M825-9149547696 -->  0.0
+R826-unicevanje: M826-9149547698 -->  0.0
+R827-unicevanje: M827-9149547710 -->  0.0
+R828-unicevanje: M828-9149547713 -->  0.0
+R829-unicevanje: M829-9149547717 -->  0.0
+R830-unicevanje: M830-9149547720 -->  0.0
+R831-unicevanje: M831-9205307256 -->  0.0
+R832-unicevanje: M832-9205307257 -->  0.0
+R833-unicevanje: M833-9370190996 -->  0.0
+R834-unicevanje: M834-9370616149 -->  0.0
+R835-unicevanje: M835-9411133232 -->  0.0
+R836-unicevanje: M836-9411236022 -->  0.0
+R837-unicevanje: M837-9411236029 -->  0.0
+R838-unicevanje: M838-9418218809 -->  0.0
+R839-unicevanje: M839-9418218810 -->  0.0
+R840-unicevanje: M840-9429299334 -->  0.0
+R841-unicevanje: M841-9493993937 -->  0.0
+R842-unicevanje: M842-9493993938 -->  0.0
+R843-unicevanje: M843-9493993947 -->  0.0
+R844-unicevanje: M844-9493993955 -->  0.0
+R845-unicevanje: M845-9493993957 -->  0.0
+R846-unicevanje: M846-9573686967 -->  0.0
+R847-unicevanje: M847-9601814047 -->  0.0
+R848-unicevanje: M848-9644363230 -->  1050.0
+R849-unicevanje: M849-9693645246 -->  0.0
+R850-unicevanje: M850-9693645255 -->  0.0
+R851-unicevanje: M851-9693645263 -->  0.0
+R852-unicevanje: M852-9693645275 -->  0.0
+R853-unicevanje: M853-9693645279 -->  0.0
+R854-unicevanje: M854-9693645281 -->  0.0
+R855-unicevanje: M855-9698983002 -->  0.0
+R856-unicevanje: M856-9698983006 -->  575.0
+R857-unicevanje: M857-9757953998 -->  0.0
+R858-unicevanje: M858-9757953999 -->  0.0
+R859-unicevanje: M859-9817465701 -->  1050.0
+R860-unicevanje: M860-9817465702 -->  0.0
+R861-unicevanje: M861-9817465708 -->  0.0
+R862-unicevanje: M862-9817465716 -->  0.0
+R863-unicevanje: M863-9817555618 -->  0.0
+R864-unicevanje: M864-9817555647 -->  0.0
+R865-unicevanje: M865-9817555671 -->  0.0
+R866-unicevanje: M866-9817555679 -->  0.0
+R867-unicevanje: M867-9817555699 -->  0.0
+R868-unicevanje: M868-9817555757 -->  0.0
+R869-unicevanje: M869-9832586995 -->  0.0
+R870-unicevanje: M870-9886691896 -->  0.0
+R871-unicevanje: M871-9886691901 -->  0.0
+R872-unicevanje: M872-9886722331 -->  0.0
+R873-unicevanje: M873-9886722343 -->  0.0
+R874-unicevanje: M874-9886722346 -->  0.0
+R875-unicevanje: M875-9886722351 -->  0.0
+R876-unicevanje: M876-9886722360 -->  0.0
+R877-unicevanje: M877-9886722377 -->  0.0
+R878-unicevanje: M878-9887307313 -->  0.0
+R879-unicevanje: M879-9974299702 -->  0.0
+R880-unicevanje: M880-10024848414 -->  0.0
+R881-unicevanje: M881-10045516912 -->  0.0
+R882-unicevanje: M882-10045516913 -->  0.0
+R883-unicevanje: M883-10177883514 -->  0.0
+R884-unicevanje: M884-10177913518 -->  0.0
+R885-unicevanje: M885-10270125611 -->  0.0
+R886-unicevanje: M886-10694562398 -->  0.0
+R887-unicevanje: M887-10694562461 -->  0.0
+R888-unicevanje: M888-10694562471 -->  0.0
+R889-unicevanje: M889-10694661878 -->  0.0
+R890-unicevanje: M890-10694661883 -->  0.0
+R891-unicevanje: M891-10694661891 -->  0.0
+R892-unicevanje: M892-10694661895 -->  0.0
+R893-unicevanje: M893-10694661902 -->  0.0
+R894-unicevanje: M894-10694673210 -->  0.0
+R895-unicevanje: M895-10694673215 -->  0.0
+R896-unicevanje: M896-10694673217 -->  0.0
+R897-unicevanje: M897-10694673230 -->  0.0
+R898-unicevanje: M898-10694673233 -->  0.0
+R899-unicevanje: M899-10694675361 -->  0.0
+R900-unicevanje: M900-10695731317 -->  0.0
+R901-unicevanje: M901-10695731318 -->  0.0
+R902-unicevanje: M902-10695731320 -->  0.0
+R903-unicevanje: M903-10695731323 -->  0.0
+R904-unicevanje: M904-10695731325 -->  0.0
+R905-unicevanje: M905-10695812728 -->  0.0
+R906-unicevanje: M906-10695812744 -->  0.0
+R907-unicevanje: M907-10695812746 -->  0.0
+R908-unicevanje: M908-10705326775 -->  0.0
+R909-unicevanje: M909-10705326782 -->  0.0
+R910-unicevanje: M910-10738926015 -->  0.0
+R911-unicevanje: M911-10738926049 -->  0.0
+R912-unicevanje: M912-10738926058 -->  0.0
+R913-unicevanje: M913-10738926070 -->  0.0
+R914-unicevanje: M914-10738926080 -->  0.0
+R915-unicevanje: M915-10742390678 -->  0.0
+R916-unicevanje: M916-10754528244 -->  0.0
+R917-unicevanje: M917-10754557557 -->  0.0
+R918-unicevanje: M918-10754557559 -->  0.0
+R919-unicevanje: M919-10754557560 -->  0.0
+R920-unicevanje: M920-10757670967 -->  0.0
+R921-unicevanje: M921-10760179813 -->  0.0
+R922-unicevanje: M922-10764232895 -->  0.0
+R923-unicevanje: M923-10764232897 -->  0.0
+R924-unicevanje: M924-10764552890 -->  0.0
+R925-unicevanje: M925-10774312806 -->  0.0
+R926-unicevanje: M926-10776663344 -->  0.0
+R927-unicevanje: M927-10780523701 -->  0.0
+R928-unicevanje: M928-10964965984 -->  0.0
+R929-unicevanje: M929-10968683491 -->  0.0
+R930-unicevanje: M930-10968683492 -->  0.0
+R931-unicevanje: M931-10968683497 -->  0.0
+R932-unicevanje: M932-10968683498 -->  0.0
+R933-unicevanje: M933-10968683499 -->  0.0
+R934-unicevanje: M934-10968762405 -->  0.0
+R935-unicevanje: M935-10968762415 -->  0.0
+R936-unicevanje: M936-10968762422 -->  0.0
+R937-unicevanje: M937-10968762425 -->  0.0
+R938-unicevanje: M938-10968959518 -->  0.0
+R939-unicevanje: M939-10968959533 -->  0.0
+R940-unicevanje: M940-10968959536 -->  0.0
+R941-unicevanje: M941-10968959540 -->  0.0
+R942-unicevanje: M942-10968959541 -->  0.0
+R943-unicevanje: M943-10968959544 -->  0.0
+R944-unicevanje: M944-10968959551 -->  0.0
+R945-unicevanje: M945-10968959553 -->  0.0
+R946-unicevanje: M946-10968959554 -->  0.0
+R947-unicevanje: M947-10968959555 -->  0.0
+R948-unicevanje: M948-10968959562 -->  0.0
+R949-unicevanje: M949-10968985295 -->  0.0
+R950-unicevanje: M950-11001695079 -->  0.0
+R951-unicevanje: M951-11059759322 -->  0.0
+R952-unicevanje: M952-11091684285 -->  0.0
+R953-unicevanje: M953-11091684288 -->  652.0
+R954-unicevanje: M954-11102162933 -->  0.0
+R955-unicevanje: M955-11102162937 -->  0.0
+R956-unicevanje: M956-11102162941 -->  0.0
+R957-unicevanje: M957-11102162960 -->  0.0
+R958-unicevanje: M958-11102162987 -->  0.0
+R959-unicevanje: M959-11102162993 -->  0.0
+R960-unicevanje: M960-11102162996 -->  0.0
+R961-unicevanje: M961-11102162998 -->  0.0
+R962-unicevanje: M962-11161081087 -->  0.0
+R963-unicevanje: M963-11161081090 -->  0.0
+R964-unicevanje: M964-11161081102 -->  0.0
+R965-unicevanje: M965-11161081103 -->  0.0
+R966-unicevanje: M966-11161117708 -->  0.0
+R967-unicevanje: M967-11161117713 -->  0.0
+R968-unicevanje: M968-11169853370 -->  0.0
+R969-unicevanje: M969-11169853384 -->  0.0
+R970-unicevanje: M970-11169992582 -->  0.0
+R971-unicevanje: M971-11193380595 -->  1050.0
+R972-unicevanje: M972-11193380602 -->  0.0
+R973-unicevanje: M973-11193380606 -->  1050.0
+R974-unicevanje: M974-11193380611 -->  0.0
+R975-unicevanje: M975-11193380612 -->  0.0
+R976-unicevanje: M976-11193380617 -->  0.0
+R977-unicevanje: M977-11193380623 -->  0.0
+R978-unicevanje: M978-11193380624 -->  0.0
+R979-unicevanje: M979-11193380629 -->  0.0
+R980-unicevanje: M980-11193380633 -->  0.0
+R981-unicevanje: M981-11193405738 -->  0.0
+R982-unicevanje: M982-11193405739 -->  0.0
+R983-unicevanje: M983-11199438780 -->  0.0
+R984-unicevanje: M984-11210957110 -->  0.0
+R985-unicevanje: M985-11210957111 -->  0.0
+R986-unicevanje: M986-11210957113 -->  0.0
+R987-unicevanje: M987-11210966326 -->  0.0
+R988-unicevanje: M988-11210974738 -->  0.0
+R989-unicevanje: M989-11210974741 -->  0.0
+R990-unicevanje: M990-11267698285 -->  0.0
+R991-unicevanje: M991-11415662417 -->  0.0
+R992-unicevanje: M992-11464139217 -->  0.0
+R993-uptake:  --> M5-16148422 1200.0
+R994-uptake:  --> M13-16174178 1200.0
+R995-uptake:  --> M23-16174351 1200.0
+R996-uptake:  --> M36-16190868 1200.0
+R997-uptake:  --> M52-16325243 1200.0
+R998-uptake:  --> M55-16373831 1200.0
+R999-uptake:  --> M56-16373901 1200.0
+R1000-uptake:  --> M61-16817211 1200.0
+R1001-uptake:  --> M79-26408357 1200.0
+R1002-uptake:  --> M81-26408363 1200.0
+R1003-uptake:  --> M85-26408387 1200.0
+R1004-uptake:  --> M86-26408397 1200.0
+R1005-uptake:  --> M87-26408428 1200.0
+R1006-uptake:  --> M88-26408431 1200.0
+R1007-uptake:  --> M90-26408437 1200.0
+R1008-uptake:  --> M95-26408475 1200.0
+R1009-uptake:  --> M98-26408483 1200.0
+R1010-uptake:  --> M101-26408495 1200.0
+R1011-uptake:  --> M103-26408501 1200.0
+R1012-uptake:  --> M106-26408543 1200.0
+R1013-uptake:  --> M107-26408550 1200.0
+R1014-uptake:  --> M109-26408555 1200.0
+R1015-uptake:  --> M113-26408569 1200.0
+R1016-uptake:  --> M121-26418271 1200.0
+R1017-uptake:  --> M124-26432546 1200.0
+R1018-uptake:  --> M125-26445379 1200.0
+R1019-uptake:  --> M126-26445405 1200.0
+R1020-uptake:  --> M167-28786871 1200.0
+R1021-uptake:  --> M173-30482323 1200.0
+R1022-uptake:  --> M184-30846178 1200.0
+R1023-uptake:  --> M188-31404192 1200.0
+R1024-uptake:  --> M198-31860333 1200.0
+R1025-uptake:  --> M204-33699959 1200.0
+R1026-uptake:  --> M206-36975365 1200.0
+R1027-uptake:  --> M208-43560817 1200.0
+R1028-uptake:  --> M220-50102951 1200.0
+R1029-uptake:  --> M239-54023542 1200.0
+R1030-uptake:  --> M243-56668363 1200.0
+R1031-uptake:  --> M247-59150869 1200.0
+R1032-uptake:  --> M255-59916013 1200.0
+R1033-uptake:  --> M264-60646560 1200.0
+R1034-uptake:  --> M271-60735502 1200.0
+R1035-uptake:  --> M278-60885045 1200.0
+R1036-uptake:  --> M280-60952710 1200.0
+R1037-uptake:  --> M292-95054526 1200.0
+R1038-uptake:  --> M293-96072107 1200.0
+R1039-uptake:  --> M320-119828738 1200.0
+R1040-uptake:  --> M322-119833641 1200.0
+R1041-uptake:  --> M332-145692425 1200.0
+R1042-uptake:  --> M341-235327098 1200.0
+R1043-uptake:  --> M352-248071903 1200.0
+R1044-uptake:  --> M353-248071904 1200.0
+R1045-uptake:  --> M358-269174389 1200.0
+R1046-uptake:  --> M368-275313548 1200.0
+R1047-uptake:  --> M372-278801696 1200.0
+R1048-uptake:  --> M382-371415087 1200.0
+R1049-uptake:  --> M390-395537980 1200.0
+R1050-uptake:  --> M391-409494432 1200.0
+R1051-uptake:  --> M449-533705481 1200.0
+R1052-uptake:  --> M450-533705485 1200.0
+R1053-uptake:  --> M460-968461756 1200.0
+R1054-uptake:  --> M492-1634304125 1200.0
+R1055-uptake:  --> M498-1645738985 1050.0
+R1056-uptake:  --> M503-1647939151 1200.0
+R1057-uptake:  --> M506-1650833632 1200.0
+R1058-uptake:  --> M530-1917615167 1050.0
+R1059-uptake:  --> M535-2051805244 1200.0
+R1060-uptake:  --> M536-2051805254 1200.0
+R1061-uptake:  --> M546-2461860989 1050.0
+R1062-uptake:  --> M560-2874464548 1200.0
+R1063-uptake:  --> M571-3160218387 897.0
+R1064-uptake:  --> M587-3502419936 1050.0
+R1065-uptake:  --> M590-3502423694 1200.0
+R1066-uptake:  --> M604-3799250216 1200.0
+R1067-uptake:  --> M628-5219908847 1200.0
+R1068-uptake:  --> M721-8319550428 1200.0
+R1069-uptake:  --> M801-8685965657 1050.0
+R1070-uptake:  --> M808-9022423244 1200.0
+R1071-uptake:  --> M848-9644363230 506.0
+R1072-uptake:  --> M859-9817465701 1200.0
+R1073-uptake:  --> M953-11091684288 1200.0
+R1074-uptake:  --> M971-11193380595 1050.0
+R1075-uptake:  --> M973-11193380606 1200.0
+R1076: M0-6968835 --> M413-476283357 0.0
+R1077: M0-6968835 --> M401-474737197 374.5
+R1078: M1-6969214 --> M411-476283324 0.0
+R1079: M1-6969214 --> M10-16149602 0.0
+R1080: M2-6983109 --> M416-476283363 975.0
+R1081: M2-6983109 --> M759-8493842241 0.0
+R1082: M2-6983109 --> M199-33632654 331.0
+R1083: M3-16147719 --> M421-476299515 0.0
+R1084: M3-16147719 --> M197-31815754 0.0
+R1085: M4-16147901 --> M404-474741048 1041.75
+R1086: M4-16147901 --> M566-2976939772 0.0
+R1087: M4-16147901 --> M197-31815754 0.0
+R1088: M5-16148422 --> M151-26546559 0.0
+R1089: M5-16148422 --> M111-26408564 150.0
+R1090: M6-16148865 --> M402-474737209 0.0
+R1091: M6-16148865 --> M448-480393063 0.0
+R1092: M6-16148865 --> M642-5655788498 0.0
+R1093: M7-16148883 --> M8-16148888 0.0
+R1094: M7-16148883 --> M642-5655788498 0.0
+R1095: M8-16148888 --> M811-9072216037 748.5
+R1096: M8-16148888 --> M304-96903322 0.0
+R1097: M9-16149404 --> M927-10780523701 839.75
+R1098: M9-16149404 --> M880-10024848414 0.0
+R1099: M9-16149404 --> M772-8554461499 101.25
+R1100: M10-16149602 --> M508-1650878266 0.0
+R1101: M10-16149602 --> M951-11059759322 0.0
+R1102: M11-16149637 --> M786-8569299058 0.0
+R1103: M11-16149637 --> M337-178880698 0.0
+R1104: M11-16149637 --> M599-3647660838 0.0
+R1105: M12-16174171 --> M54-16325261 0.0
+R1106: M13-16174178 --> M267-60735316 1193.0
+R1107: M13-16174178 --> M462-1207441440 7.0
+R1108: M14-16174181 --> M275-60735584 0.0
+R1109: M14-16174181 --> M274-60735583 0.0
+R1110: M14-16174181 --> M16-16174184 0.0
+R1111: M15-16174183 --> M272-60735549 0.0
+R1112: M15-16174183 --> M67-16817247 0.0
+R1113: M16-16174184 --> M14-16174181 150.0
+R1114: M16-16174184 --> M15-16174183 0.0
+R1115: M17-16174193 --> M908-10705326775 0.0
+R1116: M17-16174193 --> M452-774117077 0.0
+R1117: M18-16174197 --> M638-5314589269 0.0
+R1118: M18-16174197 --> M639-5324379024 0.0
+R1119: M18-16174197 --> M533-1979228613 228.0
+R1120: M19-16174201 --> M20-16174204 0.0
+R1121: M19-16174201 --> M639-5324379024 228.0
+R1122: M19-16174201 --> M539-2235814647 0.0
+R1123: M19-16174201 --> M135-26460540 0.0
+R1124: M20-16174204 --> M153-26553941 0.0
+R1125: M20-16174204 --> M30-16179400 0.0
+R1126: M20-16174204 --> M226-50103824 599.5
+R1127: M20-16174204 --> M19-16174201 228.0
+R1128: M21-16174228 --> M637-5314587051 0.0
+R1129: M21-16174228 --> M562-2972697221 0.0
+R1130: M22-16174287 --> M167-28786871 0.0
+R1131: M23-16174351 --> M73-20274505 150.0
+R1132: M24-16174409 --> M89-26408436 0.0
+R1133: M25-16174413 --> M353-248071904 0.0
+R1134: M26-16179322 --> M487-1631431654 2000.0
+R1135: M26-16179322 --> M27-16179330 0.0
+R1136: M26-16179322 --> M772-8554461499 5.25
+R1137: M26-16179322 --> M28-16179331 0.0
+R1138: M27-16179330 --> M761-8530195655 0.0
+R1139: M27-16179330 --> M773-8554527986 0.0
+R1140: M27-16179330 --> M130-26450660 0.0
+R1141: M27-16179330 --> M26-16179322 2005.25
+R1142: M28-16179331 --> M486-1631431651 0.0
+R1143: M28-16179331 --> M26-16179322 0.0
+R1144: M29-16179368 --> M759-8493842241 0.0
+R1145: M29-16179368 --> M774-8561847206 0.0
+R1146: M29-16179368 --> M134-26458504 0.0
+R1147: M30-16179400 --> M635-5282439062 0.0
+R1148: M30-16179400 --> M20-16174204 0.0
+R1149: M30-16179400 --> M135-26460540 0.0
+R1150: M31-16179414 --> M790-8572991974 0.0
+R1151: M31-16179414 --> M176-30486662 594.0
+R1152: M32-16179419 --> M496-1642106828 546.5
+R1153: M32-16179419 --> M233-50825110 0.0
+R1154: M32-16179419 --> M524-1829597776 0.0
+R1155: M33-16179426 --> M495-1642106821 3643.25
+R1156: M33-16179426 --> M496-1642106828 235.75
+R1157: M33-16179426 --> M34-16179429 0.0
+R1158: M34-16179429 --> M33-16179426 3879.0
+R1159: M34-16179429 --> M628-5219908847 0.0
+R1160: M34-16179429 --> M565-2973912038 0.0
+R1161: M34-16179429 --> M212-49369723 0.0
+R1162: M35-16179463 --> M572-3168140934 0.0
+R1163: M35-16179463 --> M512-1653007113 0.0
+R1164: M35-16179463 --> M561-2964579218 0.0
+R1165: M35-16179463 --> M758-8413200822 86.0
+R1166: M36-16190868 --> M59-16797144 387.75
+R1167: M36-16190868 --> M22-16174287 0.0
+R1168: M38-16196483 --> M257-59940119 0.0
+R1169: M38-16196483 --> M227-50103874 0.0
+R1170: M39-16196545 --> M570-3116918902 0.0
+R1171: M39-16196545 --> M794-8600324615 0.0
+R1172: M39-16196545 --> M795-8600374925 0.0
+R1173: M40-16196571 --> M552-2705620188 0.0
+R1174: M40-16196571 --> M331-145639980 0.0
+R1175: M41-16202270 --> M42-16202274 0.0
+R1176: M41-16202270 --> M70-16820742 0.0
+R1177: M42-16202274 --> M928-10964965984 0.0
+R1178: M42-16202274 --> M41-16202270 0.0
+R1179: M42-16202274 --> M241-54188757 0.0
+R1180: M43-16202281 --> M41-16202270 0.0
+R1181: M43-16202281 --> M44-16202327 2605.5
+R1182: M44-16202327 --> M538-2219916232 237.0
+R1183: M44-16202327 --> M45-16202333 1056.5
+R1184: M44-16202327 --> M951-11059759322 0.0
+R1185: M44-16202327 --> M43-16202281 0.0
+R1186: M45-16202333 --> M517-1773518785 1056.5
+R1187: M45-16202333 --> M44-16202327 0.0
+R1188: M46-16202360 --> M951-11059759322 0.0
+R1189: M46-16202360 --> M928-10964965984 0.0
+R1190: M46-16202360 --> M337-178880698 0.0
+R1191: M47-16204079 --> M134-26458504 2252.0
+R1192: M47-16204079 --> M788-8570001523 248.5
+R1193: M47-16204079 --> M57-16373943 0.0
+R1194: M48-16325232 --> M469-1259554700 0.0
+R1195: M48-16325232 --> M457-795880502 1200.0
+R1196: M49-16325236 --> M50-16325238 0.0
+R1197: M49-16325236 --> M152-26553935 0.0
+R1198: M50-16325238 --> M104-26408505 0.0
+R1199: M50-16325238 --> M54-16325261 0.0
+R1200: M51-16325242 --> M52-16325243 0.0
+R1201: M51-16325242 --> M879-9974299702 0.0
+R1202: M52-16325243 --> M53-16325245 1200.0
+R1203: M52-16325243 --> M970-11169992582 0.0
+R1204: M53-16325245 --> M48-16325232 1200.0
+R1205: M53-16325245 --> M970-11169992582 0.0
+R1206: M54-16325261 --> M51-16325242 0.0
+R1207: M54-16325261 --> M879-9974299702 0.0
+R1208: M55-16373831 --> M834-9370616149 1048.25
+R1209: M55-16373831 --> M77-26398280 0.0
+R1210: M56-16373901 --> M494-1636643767 2548.25
+R1211: M56-16373901 --> M260-60361369 0.0
+R1212: M57-16373943 --> M47-16204079 2500.5
+R1213: M57-16373943 --> M359-269548288 0.0
+R1214: M57-16373943 --> M698-8162353573 0.0
+R1215: M58-16797140 --> M59-16797144 0.0
+R1216: M58-16797140 --> M76-26398273 0.0
+R1217: M59-16797144 --> M92-26408460 387.75
+R1218: M60-16817199 --> M271-60735502 0.0
+R1219: M61-16817211 --> M25-16174413 0.0
+R1220: M61-16817211 --> M24-16174409 150.0
+R1221: M62-16817221 --> M709-8203834323 1565.5
+R1222: M62-16817221 --> M799-8653374399 235.5
+R1223: M63-16817224 --> M919-10754557560 1.0
+R1224: M63-16817224 --> M881-10045516912 0.0
+R1225: M64-16817227 --> M166-28786863 0.0
+R1226: M64-16817227 --> M186-31025200 0.0
+R1227: M64-16817227 --> M881-10045516912 1800.0
+R1228: M65-16817236 --> M356-249335932 0.0
+R1229: M66-16817239 --> M175-30482327 0.0
+R1230: M66-16817239 --> M672-8051717192 0.0
+R1231: M66-16817239 --> M711-8241131570 451.0
+R1232: M66-16817239 --> M74-20282615 2592.25
+R1233: M67-16817247 --> M425-476312116 0.0
+R1234: M67-16817247 --> M272-60735549 0.0
+R1235: M68-16817259 --> M69-16817271 0.0
+R1236: M68-16817259 --> M621-5030075377 0.0
+R1237: M68-16817259 --> M748-8413102510 0.0
+R1238: M69-16817271 --> M746-8413081623 0.0
+R1239: M69-16817271 --> M371-278564769 0.0
+R1240: M69-16817271 --> M68-16817259 0.0
+R1241: M70-16820742 --> M154-26570320 0.0
+R1242: M70-16820742 --> M41-16202270 0.0
+R1243: M70-16820742 --> M241-54188757 0.0
+R1244: M70-16820742 --> M74-20282615 0.0
+R1245: M71-16820750 --> M704-8171991024 0.0
+R1246: M71-16820750 --> M145-26509603 0.0
+R1247: M71-16820750 --> M354-248933118 0.0
+R1248: M72-20274503 --> M215-50102815 0.0
+R1249: M72-20274503 --> M216-50102819 0.0
+R1250: M72-20274503 --> M217-50102830 150.0
+R1251: M73-20274505 --> M72-20274503 150.0
+R1252: M73-20274505 --> M216-50102819 0.0
+R1253: M74-20282615 --> M154-26570320 2605.5
+R1254: M74-20282615 --> M70-16820742 0.0
+R1255: M74-20282615 --> M66-16817239 0.0
+R1256: M74-20282615 --> M525-1829597779 0.0
+R1257: M75-26398264 --> M36-16190868 0.0
+R1258: M76-26398273 --> M55-16373831 0.0
+R1259: M78-26408352 --> M587-3502419936 0.0
+R1260: M78-26408352 --> M283-61158170 0.0
+R1261: M79-26408357 --> M163-28786835 238.0
+R1262: M79-26408357 --> M80-26408358 0.0
+R1263: M80-26408358 --> M81-26408363 0.0
+R1264: M81-26408363 --> M317-119822314 544.0
+R1265: M81-26408363 --> M82-26408364 656.0
+R1266: M82-26408364 --> M310-118923260 0.0
+R1267: M83-26408370 --> M122-26418273 0.0
+R1268: M84-26408373 --> M123-26418277 0.0
+R1269: M85-26408387 --> M165-28786839 0.0
+R1270: M85-26408387 --> M276-60839508 150.0
+R1271: M86-26408397 --> M64-16817227 1350.0
+R1272: M86-26408397 --> M186-31025200 0.0
+R1273: M87-26408428 --> M962-11161081087 150.0
+R1274: M87-26408428 --> M352-248071903 0.0
+R1275: M88-26408431 --> M24-16174409 0.0
+R1276: M88-26408431 --> M60-16817199 300.0
+R1277: M89-26408436 --> M90-26408437 0.0
+R1278: M90-26408437 --> M224-50103752 179.75
+R1279: M90-26408437 --> M221-50103726 1020.25
+R1280: M91-26408443 --> M121-26418271 0.0
+R1281: M92-26408460 --> M708-8196603055 387.75
+R1282: M92-26408460 --> M341-235327098 0.0
+R1283: M93-26408470 --> M369-275313568 0.0
+R1284: M93-26408470 --> M94-26408472 0.0
+R1285: M94-26408472 --> M95-26408475 0.0
+R1286: M95-26408475 --> M843-9493993947 0.0
+R1287: M95-26408475 --> M96-26408478 150.0
+R1288: M96-26408478 --> M97-26408480 150.0
+R1289: M97-26408480 --> M98-26408483 0.0
+R1290: M97-26408480 --> M814-9118662952 150.0
+R1291: M98-26408483 --> M194-31598265 0.0
+R1292: M98-26408483 --> M99-26408486 285.5
+R1293: M99-26408486 --> M239-54023542 285.5
+R1294: M100-26408493 --> M101-26408495 0.0
+R1295: M101-26408495 --> M705-8180094913 0.0
+R1296: M101-26408495 --> M102-26408499 150.0
+R1297: M102-26408499 --> M103-26408501 0.0
+R1298: M103-26408501 --> M169-28975783 150.0
+R1299: M103-26408501 --> M104-26408505 0.0
+R1300: M104-26408505 --> M13-16174178 0.0
+R1301: M105-26408534 --> M106-26408543 0.0
+R1302: M106-26408543 --> M12-16174171 150.0
+R1303: M106-26408543 --> M461-1198732787 0.0
+R1304: M107-26408550 --> M229-50103889 0.0
+R1305: M107-26408550 --> M108-26408553 150.0
+R1306: M108-26408553 --> M109-26408555 0.0
+R1307: M109-26408555 --> M238-53456933 150.0
+R1308: M109-26408555 --> M110-26408557 0.0
+R1309: M110-26408557 --> M244-56668370 0.0
+R1310: M111-26408564 --> M112-26408567 0.0
+R1311: M112-26408567 --> M113-26408569 0.0
+R1312: M113-26408569 --> M325-119861846 0.0
+R1313: M113-26408569 --> M114-26408572 150.0
+R1314: M114-26408572 --> M369-275313568 0.0
+R1315: M114-26408572 --> M115-26408575 0.0
+R1316: M115-26408575 --> M116-26408579 0.0
+R1317: M116-26408579 --> M117-26408584 0.0
+R1318: M117-26408584 --> M289-65185641 0.0
+R1319: M117-26408584 --> M340-235326252 0.0
+R1320: M118-26408593 --> M76-26398273 0.0
+R1321: M118-26408593 --> M22-16174287 0.0
+R1322: M119-26408594 --> M193-31598260 0.0
+R1323: M119-26408594 --> M111-26408564 0.0
+R1324: M120-26414453 --> M435-476458645 0.0
+R1325: M120-26414453 --> M568-2995472433 0.0
+R1326: M120-26414453 --> M434-476458642 0.0
+R1327: M121-26418271 --> M84-26408373 150.0
+R1328: M122-26418273 --> M23-16174351 0.0
+R1329: M123-26418277 --> M311-118924878 0.0
+R1330: M123-26418277 --> M885-10270125611 0.0
+R1331: M124-26432546 --> M966-11161117708 150.0
+R1332: M124-26432546 --> M346-248067037 0.0
+R1333: M125-26445379 --> M126-26445405 150.0
+R1334: M126-26445405 --> M295-96072424 300.0
+R1335: M126-26445405 --> M296-96072736 0.0
+R1336: M127-26445406 --> M297-96073150 16.0
+R1337: M128-26445423 --> M493-1634304127 0.0
+R1338: M129-26450655 --> M674-8063813261 0.0
+R1339: M129-26450655 --> M228-50103879 0.0
+R1340: M129-26450655 --> M673-8063813255 0.0
+R1341: M130-26450660 --> M707-8196147882 0.0
+R1342: M130-26450660 --> M407-476270549 0.0
+R1343: M130-26450660 --> M27-16179330 2005.25
+R1344: M130-26450660 --> M673-8063813255 189.5
+R1345: M131-26451661 --> M201-33632882 1957.5
+R1346: M131-26451661 --> M800-8681129391 0.0
+R1347: M132-26452249 --> M386-371729746 0.0
+R1348: M132-26452249 --> M387-379037580 1238.0
+R1349: M132-26452249 --> M598-3598598236 0.0
+R1350: M133-26452257 --> M309-114138641 0.0
+R1351: M133-26452257 --> M955-11102162937 0.0
+R1352: M133-26452257 --> M185-30846183 0.0
+R1353: M134-26458504 --> M47-16204079 0.0
+R1354: M134-26458504 --> M29-16179368 800.0
+R1355: M134-26458504 --> M952-11091684285 0.0
+R1356: M135-26460540 --> M639-5324379024 0.0
+R1357: M135-26460540 --> M30-16179400 0.0
+R1358: M135-26460540 --> M19-16174201 0.0
+R1359: M136-26479302 --> M251-59912334 0.0
+R1360: M136-26479302 --> M329-119906015 0.0
+R1361: M137-26505755 --> M202-33638473 235.5
+R1362: M137-26505755 --> M148-26546534 0.0
+R1363: M137-26505755 --> M138-26505758 0.0
+R1364: M138-26505758 --> M137-26505755 0.0
+R1365: M138-26505758 --> M147-26546531 235.5
+R1366: M138-26505758 --> M203-33638825 0.0
+R1367: M138-26505758 --> M787-8570001522 0.0
+R1368: M139-26505760 --> M203-33638825 0.0
+R1369: M139-26505760 --> M242-54698002 0.0
+R1370: M139-26505760 --> M140-26505761 0.0
+R1371: M140-26505761 --> M242-54698002 0.0
+R1372: M140-26505761 --> M139-26505760 0.0
+R1373: M140-26505761 --> M187-31297421 0.0
+R1374: M140-26505761 --> M202-33638473 0.0
+R1375: M141-26505763 --> M514-1712884258 0.0
+R1376: M141-26505763 --> M445-476682359 0.0
+R1377: M141-26505763 --> M174-30482326 450.0
+R1378: M141-26505763 --> M242-54698002 0.0
+R1379: M142-26506016 --> M240-54023554 805.25
+R1380: M142-26506016 --> M191-31587169 0.0
+R1381: M142-26506016 --> M509-1653007098 0.0
+R1382: M142-26506016 --> M197-31815754 566.75
+R1383: M143-26506027 --> M842-9493993938 0.0
+R1384: M143-26506027 --> M325-119861846 0.0
+R1385: M144-26509554 --> M514-1712884258 2450.0
+R1386: M144-26509554 --> M157-26730404 0.0
+R1387: M144-26509554 --> M586-3500626460 722.5
+R1388: M144-26509554 --> M357-255161937 0.0
+R1389: M145-26509603 --> M146-26509611 0.0
+R1390: M145-26509603 --> M606-3952348101 0.0
+R1391: M145-26509603 --> M71-16820750 0.0
+R1392: M146-26509611 --> M533-1979228613 0.0
+R1393: M146-26509611 --> M145-26509603 0.0
+R1394: M147-26546531 --> M171-29871597 0.0
+R1395: M147-26546531 --> M774-8561847206 235.5
+R1396: M147-26546531 --> M138-26505758 0.0
+R1397: M147-26546531 --> M569-3063671644 0.0
+R1398: M148-26546534 --> M699-8162402159 0.0
+R1399: M148-26546534 --> M137-26505755 235.5
+R1400: M148-26546534 --> M187-31297421 0.0
+R1401: M149-26546554 --> M195-31624893 0.0
+R1402: M149-26546554 --> M150-26546558 0.0
+R1403: M149-26546554 --> M482-1627225734 0.0
+R1404: M150-26546558 --> M277-60876246 0.0
+R1405: M150-26546558 --> M170-29054938 0.0
+R1406: M150-26546558 --> M149-26546554 0.0
+R1407: M151-26546559 --> M361-271009865 0.0
+R1408: M152-26553935 --> M327-119897327 0.0
+R1409: M152-26553935 --> M153-26553941 0.0
+R1410: M153-26553941 --> M152-26553935 0.0
+R1411: M153-26553941 --> M266-60735313 0.0
+R1412: M153-26553941 --> M20-16174204 0.0
+R1413: M154-26570320 --> M74-20282615 0.0
+R1414: M154-26570320 --> M43-16202281 2605.5
+R1415: M155-26592507 --> M515-1747510585 0.0
+R1416: M155-26592507 --> M838-9418218809 0.0
+R1417: M156-26730402 --> M203-33638825 0.0
+R1418: M156-26730402 --> M445-476682359 0.0
+R1419: M156-26730402 --> M171-29871597 0.0
+R1420: M157-26730404 --> M332-145692425 0.0
+R1421: M157-26730404 --> M604-3799250216 0.0
+R1422: M157-26730404 --> M144-26509554 2062.0
+R1423: M158-27435157 --> M968-11169853370 0.0
+R1424: M158-27435157 --> M529-1917615164 0.0
+R1425: M158-27435157 --> M162-27436012 0.0
+R1426: M159-27435171 --> M359-269548288 0.0
+R1427: M159-27435171 --> M168-28787015 0.0
+R1428: M159-27435171 --> M647-6249466133 0.0
+R1429: M160-27435305 --> M746-8413081623 289.5
+R1430: M161-27435306 --> M128-26445423 0.0
+R1431: M161-27435306 --> M745-8412576384 0.0
+R1432: M162-27436012 --> M168-28787015 0.0
+R1433: M162-27436012 --> M158-27435157 0.0
+R1434: M163-28786835 --> M80-26408358 0.0
+R1435: M163-28786835 --> M771-8541583150 238.0
+R1436: M164-28786837 --> M165-28786839 0.0
+R1437: M164-28786837 --> M771-8541583150 0.0
+R1438: M165-28786839 --> M276-60839508 0.0
+R1439: M165-28786839 --> M164-28786837 0.0
+R1440: M166-28786863 --> M64-16817227 1200.0
+R1441: M166-28786863 --> M172-29873954 0.0
+R1442: M167-28786871 --> M166-28786863 1200.0
+R1443: M167-28786871 --> M172-29873954 0.0
+R1444: M168-28787015 --> M162-27436012 0.0
+R1445: M168-28787015 --> M159-27435171 0.0
+R1446: M169-28975783 --> M48-16325232 0.0
+R1447: M170-29054938 --> M150-26546558 0.0
+R1448: M170-29054938 --> M513-1653007127 0.0
+R1449: M171-29871597 --> M156-26730402 0.0
+R1450: M171-29871597 --> M334-162236296 0.0
+R1451: M171-29871597 --> M147-26546531 0.0
+R1452: M172-29873954 --> M78-26408352 0.0
+R1453: M173-30482323 --> M174-30482326 1200.0
+R1454: M174-30482326 --> M141-26505763 0.0
+R1455: M174-30482326 --> M385-371723676 0.0
+R1456: M174-30482326 --> M480-1627101302 1800.0
+R1457: M174-30482326 --> M173-30482323 0.0
+R1458: M175-30482327 --> M711-8241131570 0.0
+R1459: M175-30482327 --> M66-16817239 1800.0
+R1460: M175-30482327 --> M481-1627101315 0.0
+R1461: M176-30486662 --> M214-49922101 744.0
+R1462: M176-30486662 --> M646-6178976728 0.0
+R1463: M177-30536863 --> M181-30536874 0.0
+R1464: M178-30536866 --> M177-30536863 0.0
+R1465: M178-30536866 --> M826-9149547698 0.0
+R1466: M179-30536868 --> M700-8165614345 0.0
+R1467: M179-30536868 --> M827-9149547710 0.0
+R1468: M180-30536871 --> M829-9149547717 0.0
+R1469: M180-30536871 --> M485-1630656013 0.0
+R1470: M181-30536874 --> M485-1630656013 0.0
+R1471: M181-30536874 --> M830-9149547720 0.0
+R1472: M182-30839784 --> M822-9149350027 0.0
+R1473: M182-30839784 --> M820-9149350017 0.0
+R1474: M183-30839912 --> M583-3320241564 0.0
+R1475: M183-30839912 --> M249-59154432 0.0
+R1476: M183-30839912 --> M597-3512583532 165.0
+R1477: M184-30846178 --> M662-7539161881 1200.0
+R1478: M185-30846183 --> M133-26452257 0.0
+R1479: M185-30846183 --> M386-371729746 0.0
+R1480: M185-30846183 --> M385-371723676 0.0
+R1481: M185-30846183 --> M615-4453102275 0.0
+R1482: M186-31025200 --> M58-16797140 0.0
+R1483: M187-31297421 --> M925-10774312806 0.0
+R1484: M187-31297421 --> M148-26546534 0.0
+R1485: M187-31297421 --> M140-26505761 0.0
+R1486: M188-31404192 --> M507-1650833637 150.0
+R1487: M189-31404623 --> M451-774117067 0.0
+R1488: M189-31404623 --> M909-10705326782 0.0
+R1489: M190-31581220 --> M407-476270549 189.0
+R1490: M190-31581220 --> M304-96903322 0.0
+R1491: M190-31581220 --> M213-49914591 268.0
+R1492: M191-31587169 --> M110-26408557 150.0
+R1493: M191-31587169 --> M142-26506016 0.0
+R1494: M191-31587169 --> M291-87285974 0.0
+R1495: M192-31598259 --> M194-31598265 0.0
+R1496: M192-31598259 --> M193-31598260 0.0
+R1497: M193-31598260 --> M815-9118662955 0.0
+R1498: M193-31598260 --> M621-5030075377 0.0
+R1499: M194-31598265 --> M365-271010043 0.0
+R1500: M195-31624893 --> M196-31624897 387.0
+R1501: M195-31624893 --> M149-26546554 0.0
+R1502: M195-31624893 --> M515-1747510585 0.0
+R1503: M196-31624897 --> M558-2845144244 0.0
+R1504: M196-31624897 --> M230-50103978 536.0
+R1505: M196-31624897 --> M195-31624893 0.0
+R1506: M197-31815754 --> M142-26506016 273.5
+R1507: M197-31815754 --> M4-16147901 293.25
+R1508: M197-31815754 --> M511-1653007110 0.0
+R1509: M197-31815754 --> M3-16147719 0.0
+R1510: M198-31860333 --> M573-3196822743 0.0
+R1511: M198-31860333 --> M584-3496886208 150.0
+R1512: M198-31860333 --> M585-3496886218 0.0
+R1513: M198-31860333 --> M548-2520910747 0.0
+R1514: M199-33632654 --> M414-476283358 331.0
+R1515: M200-33632712 --> M201-33632882 361.75
+R1516: M200-33632712 --> M0-6968835 0.0
+R1517: M201-33632882 --> M200-33632712 319.25
+R1518: M201-33632882 --> M131-26451661 0.0
+R1519: M201-33632882 --> M518-1773518794 0.0
+R1520: M202-33638473 --> M137-26505755 0.0
+R1521: M202-33638473 --> M140-26505761 0.0
+R1522: M202-33638473 --> M203-33638825 235.5
+R1523: M203-33638825 --> M139-26505760 0.0
+R1524: M203-33638825 --> M138-26505758 235.5
+R1525: M203-33638825 --> M202-33638473 0.0
+R1526: M203-33638825 --> M156-26730402 0.0
+R1527: M204-33699959 --> M759-8493842241 1200.0
+R1528: M205-36972282 --> M215-50102815 1020.25
+R1529: M205-36972282 --> M91-26408443 0.0
+R1530: M206-36975365 --> M314-119807973 150.0
+R1531: M206-36975365 --> M339-235324117 0.0
+R1532: M207-43545221 --> M371-278564769 312.0
+R1533: M207-43545221 --> M115-26408575 0.0
+R1534: M207-43545221 --> M330-140343212 0.0
+R1535: M208-43560817 --> M209-43560818 150.0
+R1536: M209-43560818 --> M112-26408567 0.0
+R1537: M210-47844772 --> M702-8171782893 334.5
+R1538: M210-47844772 --> M772-8554461499 0.0
+R1539: M210-47844772 --> M786-8569299058 0.0
+R1540: M211-47923535 --> M403-474741035 0.0
+R1541: M211-47923535 --> M927-10780523701 293.25
+R1542: M212-49369723 --> M34-16179429 999.25
+R1543: M212-49369723 --> M264-60646560 0.0
+R1544: M212-49369723 --> M551-2527973191 623.5
+R1545: M213-49914591 --> M236-53456804 0.0
+R1546: M213-49914591 --> M190-31581220 457.0
+R1547: M214-49922101 --> M399-450132051 744.0
+R1548: M214-49922101 --> M631-5221489947 0.0
+R1549: M214-49922101 --> M605-3840775863 0.0
+R1550: M215-50102815 --> M91-26408443 0.0
+R1551: M215-50102815 --> M72-20274503 0.0
+R1552: M215-50102815 --> M542-2418750095 1020.25
+R1553: M216-50102819 --> M280-60952710 0.0
+R1554: M217-50102830 --> M629-5221318445 308.75
+R1555: M217-50102830 --> M72-20274503 0.0
+R1556: M217-50102830 --> M218-50102852 0.0
+R1557: M218-50102852 --> M265-60697534 0.0
+R1558: M218-50102852 --> M219-50102864 0.0
+R1559: M218-50102852 --> M217-50102830 158.75
+R1560: M219-50102864 --> M220-50102951 0.0
+R1561: M219-50102864 --> M218-50102852 158.75
+R1562: M219-50102864 --> M603-3748330804 0.0
+R1563: M220-50102951 --> M219-50102864 0.0
+R1564: M220-50102951 --> M629-5221318445 150.0
+R1565: M221-50103726 --> M205-36972282 1020.25
+R1566: M222-50103728 --> M221-50103726 0.0
+R1567: M223-50103729 --> M520-1783897612 0.0
+R1568: M223-50103729 --> M850-9693645255 0.0
+R1569: M224-50103752 --> M285-61739566 179.75
+R1570: M225-50103822 --> M423-476312112 827.5
+R1571: M225-50103822 --> M424-476312113 365.5
+R1572: M226-50103824 --> M269-60735457 0.0
+R1573: M226-50103824 --> M677-8089336276 0.0
+R1574: M227-50103874 --> M409-476272432 0.0
+R1575: M227-50103874 --> M675-8066980250 0.0
+R1576: M228-50103879 --> M229-50103889 0.0
+R1577: M228-50103879 --> M670-8032947845 0.0
+R1578: M228-50103879 --> M129-26450655 0.0
+R1579: M229-50103889 --> M227-50103874 0.0
+R1580: M230-50103978 --> M291-87285974 0.0
+R1581: M230-50103978 --> M250-59161484 0.0
+R1582: M230-50103978 --> M196-31624897 149.0
+R1583: M231-50104120 --> M798-8602325107 0.0
+R1584: M231-50104120 --> M331-145639980 300.0
+R1585: M232-50824140 --> M525-1829597779 3600.0
+R1586: M232-50824140 --> M643-5735600371 397.75
+R1587: M232-50824140 --> M495-1642106821 0.0
+R1588: M233-50825110 --> M32-16179419 177.5
+R1589: M233-50825110 --> M31-16179414 0.0
+R1590: M234-53407866 --> M235-53407881 0.0
+R1591: M235-53407881 --> M61-16817211 0.0
+R1592: M236-53456804 --> M705-8180094913 616.25
+R1593: M236-53456804 --> M237-53456807 0.0
+R1594: M236-53456804 --> M213-49914591 189.0
+R1595: M237-53456807 --> M238-53456933 0.0
+R1596: M237-53456807 --> M236-53456804 0.0
+R1597: M237-53456807 --> M990-11267698285 0.0
+R1598: M238-53456933 --> M191-31587169 150.0
+R1599: M239-54023542 --> M509-1653007098 1485.5
+R1600: M239-54023542 --> M100-26408493 0.0
+R1601: M240-54023554 --> M236-53456804 805.25
+R1602: M240-54023554 --> M100-26408493 0.0
+R1603: M241-54188757 --> M42-16202274 0.0
+R1604: M241-54188757 --> M70-16820742 0.0
+R1605: M241-54188757 --> M704-8171991024 0.0
+R1606: M242-54698002 --> M139-26505760 0.0
+R1607: M242-54698002 --> M141-26505763 0.0
+R1608: M242-54698002 --> M140-26505761 0.0
+R1609: M243-56668363 --> M244-56668370 150.0
+R1610: M244-56668370 --> M5-16148422 0.0
+R1611: M245-59147188 --> M573-3196822743 0.0
+R1612: M245-59147188 --> M574-3196822744 0.0
+R1613: M246-59147192 --> M581-3299015890 0.0
+R1614: M246-59147192 --> M259-59994899 0.0
+R1615: M246-59147192 --> M548-2520910747 0.0
+R1616: M247-59150869 --> M350-248071635 150.0
+R1617: M248-59153230 --> M249-59154432 0.0
+R1618: M248-59153230 --> M249-59154432 0.0
+R1619: M248-59153230 --> M534-2027914713 0.0
+R1620: M249-59154432 --> M248-59153230 0.0
+R1621: M249-59154432 --> M248-59153230 0.0
+R1622: M249-59154432 --> M183-30839912 0.0
+R1623: M250-59161484 --> M230-50103978 0.0
+R1624: M250-59161484 --> M291-87285974 0.0
+R1625: M250-59161484 --> M344-235884356 0.0
+R1626: M251-59912334 --> M60-16817199 0.0
+R1627: M252-59916001 --> M254-59916011 0.0
+R1628: M252-59916001 --> M253-59916004 0.0
+R1629: M253-59916004 --> M255-59916013 0.0
+R1630: M254-59916011 --> M840-9429299334 0.0
+R1631: M255-59916013 --> M254-59916011 0.0
+R1632: M255-59916013 --> M136-26479302 150.0
+R1633: M256-59940116 --> M257-59940119 0.0
+R1634: M256-59940116 --> M38-16196483 0.0
+R1635: M257-59940119 --> M671-8032964258 0.0
+R1636: M258-59940128 --> M848-9644363230 685.5
+R1637: M258-59940128 --> M956-11102162941 0.0
+R1638: M259-59994899 --> M690-8109060856 0.0
+R1639: M259-59994899 --> M246-59147192 0.0
+R1640: M260-60361369 --> M972-11193380602 0.0
+R1641: M260-60361369 --> M428-476458624 0.0
+R1642: M260-60361369 --> M56-16373901 1348.25
+R1643: M261-60640997 --> M329-119906015 0.0
+R1644: M261-60640997 --> M251-59912334 0.0
+R1645: M262-60642222 --> M610-4225596515 150.0
+R1646: M263-60642571 --> M292-95054526 26.0
+R1647: M263-60642571 --> M640-5640413598 435.0
+R1648: M263-60642571 --> M389-395506341 0.0
+R1649: M264-60646560 --> M212-49369723 1200.0
+R1650: M265-60697534 --> M218-50102852 0.0
+R1651: M265-60697534 --> M655-6746853852 0.0
+R1652: M266-60735313 --> M760-8504589784 0.0
+R1653: M266-60735313 --> M267-60735316 0.0
+R1654: M266-60735313 --> M153-26553941 0.0
+R1655: M267-60735316 --> M225-50103822 1193.0
+R1656: M268-60735320 --> M105-26408534 0.0
+R1657: M268-60735320 --> M760-8504589784 0.0
+R1658: M269-60735457 --> M67-16817247 365.5
+R1659: M269-60735457 --> M677-8089336276 0.0
+R1660: M270-60735479 --> M105-26408534 0.0
+R1661: M271-60735502 --> M270-60735479 0.0
+R1662: M271-60735502 --> M934-10968762405 150.0
+R1663: M272-60735549 --> M426-476312121 0.0
+R1664: M273-60735551 --> M274-60735583 0.0
+R1665: M273-60735551 --> M14-16174181 0.0
+R1666: M274-60735583 --> M14-16174181 0.0
+R1667: M274-60735583 --> M275-60735584 0.0
+R1668: M274-60735583 --> M701-8171408922 0.0
+R1669: M275-60735584 --> M234-53407866 0.0
+R1670: M276-60839508 --> M319-119826914 0.0
+R1671: M277-60876246 --> M150-26546558 0.0
+R1672: M277-60876246 --> M151-26546559 0.0
+R1673: M278-60885045 --> M847-9601814047 150.0
+R1674: M279-60920870 --> M170-29054938 0.0
+R1675: M279-60920870 --> M99-26408486 0.0
+R1676: M280-60952710 --> M281-60952715 150.0
+R1677: M280-60952710 --> M253-59916004 0.0
+R1678: M281-60952715 --> M262-60642222 150.0
+R1679: M281-60952715 --> M766-8538055103 0.0
+R1680: M282-61155931 --> M589-3502423089 0.0
+R1681: M282-61155931 --> M75-26398264 0.0
+R1682: M283-61158170 --> M79-26408357 0.0
+R1683: M284-61738609 --> M222-50103728 0.0
+R1684: M284-61738609 --> M767-8538055110 0.0
+R1685: M285-61739566 --> M630-5221489903 179.75
+R1686: M285-61739566 --> M768-8538055111 0.0
+R1687: M286-61739721 --> M252-59916001 0.0
+R1688: M287-64877802 --> M371-278564769 355.5
+R1689: M287-64877802 --> M372-278801696 0.0
+R1690: M288-64885964 --> M781-8567559033 150.0
+R1691: M288-64885964 --> M535-2051805244 0.0
+R1692: M289-65185641 --> M968-11169853370 0.0
+R1693: M289-65185641 --> M530-1917615167 0.0
+R1694: M290-65185643 --> M708-8196603055 0.0
+R1695: M290-65185643 --> M324-119858737 0.0
+R1696: M290-65185643 --> M359-269548288 992.0
+R1697: M291-87285974 --> M191-31587169 0.0
+R1698: M291-87285974 --> M230-50103978 0.0
+R1699: M291-87285974 --> M250-59161484 0.0
+R1700: M292-95054526 --> M263-60642571 167.25
+R1701: M292-95054526 --> M603-3748330804 8.75
+R1702: M293-96072107 --> M294-96072218 0.0
+R1703: M293-96072107 --> M127-26445406 150.0
+R1704: M294-96072218 --> M553-2715287430 0.0
+R1705: M294-96072218 --> M127-26445406 0.0
+R1706: M295-96072424 --> M296-96072736 0.0
+R1707: M295-96072424 --> M537-2100663482 300.0
+R1708: M296-96072736 --> M492-1634304125 0.0
+R1709: M297-96073150 --> M298-96073287 16.0
+R1710: M297-96073150 --> M299-96073377 0.0
+R1711: M298-96073287 --> M836-9411236022 0.0
+R1712: M298-96073287 --> M597-3512583532 16.0
+R1713: M300-96073388 --> M302-96073567 0.0
+R1714: M300-96073388 --> M125-26445379 0.0
+R1715: M301-96073566 --> M125-26445379 0.0
+R1716: M302-96073567 --> M596-3512583527 0.0
+R1717: M302-96073567 --> M303-96076140 0.0
+R1718: M302-96073567 --> M301-96073566 0.0
+R1719: M303-96076140 --> M836-9411236022 0.0
+R1720: M303-96076140 --> M302-96073567 0.0
+R1721: M303-96076140 --> M837-9411236029 0.0
+R1722: M304-96903322 --> M190-31581220 0.0
+R1723: M304-96903322 --> M811-9072216037 0.0
+R1724: M305-114136375 --> M308-114136394 0.0
+R1725: M306-114136386 --> M550-2526583895 0.0
+R1726: M306-114136386 --> M307-114136387 0.0
+R1727: M307-114136387 --> M614-4453102273 0.0
+R1728: M308-114136394 --> M458-797783801 0.0
+R1729: M308-114136394 --> M549-2526583893 0.0
+R1730: M309-114138641 --> M315-119807974 0.0
+R1731: M309-114138641 --> M957-11102162960 0.0
+R1732: M309-114138641 --> M133-26452257 0.0
+R1733: M310-118923260 --> M83-26408370 0.0
+R1734: M311-118924878 --> M312-118924882 0.0
+R1735: M312-118924882 --> M885-10270125611 0.0
+R1736: M312-118924882 --> M311-118924878 0.0
+R1737: M312-118924882 --> M313-118924884 0.0
+R1738: M313-118924884 --> M312-118924882 0.0
+R1739: M313-118924884 --> M960-11102162996 0.0
+R1740: M314-119807973 --> M578-3215416066 150.0
+R1741: M314-119807973 --> M339-235324117 0.0
+R1742: M315-119807974 --> M835-9411133232 0.0
+R1743: M315-119807974 --> M309-114138641 0.0
+R1744: M315-119807974 --> M957-11102162960 0.0
+R1745: M316-119810196 --> M955-11102162937 0.0
+R1746: M316-119810196 --> M956-11102162941 544.0
+R1747: M316-119810196 --> M954-11102162933 0.0
+R1748: M317-119822314 --> M82-26408364 0.0
+R1749: M317-119822314 --> M318-119822318 544.0
+R1750: M318-119822318 --> M317-119822314 0.0
+R1751: M318-119822318 --> M955-11102162937 544.0
+R1752: M319-119826914 --> M546-2461860989 0.0
+R1753: M319-119826914 --> M321-119828741 0.0
+R1754: M320-119828738 --> M321-119828741 150.0
+R1755: M321-119828741 --> M86-26408397 150.0
+R1756: M322-119833641 --> M283-61158170 150.0
+R1757: M323-119858107 --> M708-8196603055 0.0
+R1758: M323-119858107 --> M324-119858737 0.0
+R1759: M323-119858107 --> M528-1917615158 0.0
+R1760: M324-119858737 --> M341-235327098 0.0
+R1761: M325-119861846 --> M844-9493993955 0.0
+R1762: M325-119861846 --> M841-9493993937 0.0
+R1763: M326-119887477 --> M397-443120833 616.25
+R1764: M326-119887477 --> M408-476270555 0.0
+R1765: M327-119897327 --> M12-16174171 0.0
+R1766: M327-119897327 --> M152-26553935 0.0
+R1767: M328-119905088 --> M877-9886722377 0.0
+R1768: M329-119906015 --> M25-16174413 0.0
+R1769: M330-140343212 --> M377-280045473 0.0
+R1770: M330-140343212 --> M844-9493993955 0.0
+R1771: M330-140343212 --> M207-43545221 0.0
+R1772: M331-145639980 --> M231-50104120 0.0
+R1773: M331-145639980 --> M40-16196571 300.0
+R1774: M332-145692425 --> M157-26730404 1200.0
+R1775: M333-145916690 --> M742-8412558489 0.0
+R1776: M334-162236296 --> M171-29871597 0.0
+R1777: M334-162236296 --> M445-476682359 0.0
+R1778: M334-162236296 --> M569-3063671644 0.0
+R1779: M335-165218631 --> M432-476458634 0.0
+R1780: M335-165218631 --> M921-10760179813 0.0
+R1781: M336-165219096 --> M432-476458634 0.0
+R1782: M336-165219096 --> M494-1636643767 0.0
+R1783: M337-178880698 --> M46-16202360 0.0
+R1784: M337-178880698 --> M11-16149637 0.0
+R1785: M338-178886187 --> M419-476287161 0.0
+R1786: M338-178886187 --> M411-476283324 0.0
+R1787: M339-235324117 --> M85-26408387 0.0
+R1788: M340-235326252 --> M118-26408593 0.0
+R1789: M341-235327098 --> M93-26408470 150.0
+R1790: M342-235329965 --> M883-10177883514 0.0
+R1791: M342-235329965 --> M649-6567966989 0.0
+R1792: M342-235329965 --> M963-11161081090 0.0
+R1793: M342-235329965 --> M543-2423779887 325.75
+R1794: M343-235883080 --> M675-8066980250 813.0
+R1795: M343-235883080 --> M344-235884356 0.0
+R1796: M343-235883080 --> M915-10742390678 0.0
+R1797: M344-235884356 --> M990-11267698285 0.0
+R1798: M344-235884356 --> M250-59161484 0.0
+R1799: M344-235884356 --> M343-235883080 0.0
+R1800: M345-248067036 --> M346-248067037 0.0
+R1801: M346-248067037 --> M87-26408428 0.0
+R1802: M347-248067269 --> M964-11161081102 0.0
+R1803: M347-248067269 --> M37-16190999 0.0
+R1804: M348-248067594 --> M37-16190999 150.0
+R1805: M349-248067614 --> M345-248067036 0.0
+R1806: M349-248067614 --> M967-11161117713 0.0
+R1807: M350-248071635 --> M348-248067594 0.0
+R1808: M350-248071635 --> M965-11161081103 0.0
+R1809: M351-248071682 --> M347-248067269 0.0
+R1810: M352-248071903 --> M88-26408431 150.0
+R1811: M353-248071904 --> M963-11161081090 150.0
+R1812: M353-248071904 --> M351-248071682 0.0
+R1813: M354-248933118 --> M71-16820750 0.0
+R1814: M354-248933118 --> M355-248959274 0.0
+R1815: M355-248959274 --> M354-248933118 0.0
+R1816: M355-248959274 --> M634-5282407252 0.0
+R1817: M356-249335932 --> M711-8241131570 0.0
+R1818: M356-249335932 --> M712-8241131572 451.0
+R1819: M357-255161937 --> M782-8567559034 0.0
+R1820: M357-255161937 --> M144-26509554 150.0
+R1821: M358-269174389 --> M603-3748330804 150.0
+R1822: M359-269548288 --> M290-65185643 604.25
+R1823: M359-269548288 --> M57-16373943 2500.5
+R1824: M359-269548288 --> M159-27435171 0.0
+R1825: M359-269548288 --> M647-6249466133 0.0
+R1826: M360-271009799 --> M510-1653007107 0.0
+R1827: M361-271009865 --> M362-271009997 0.0
+R1828: M361-271009865 --> M739-8397664627 0.0
+R1829: M362-271009997 --> M747-8413102509 0.0
+R1830: M363-271010011 --> M364-271010035 0.0
+R1831: M363-271010011 --> M733-8397648839 0.0
+R1832: M364-271010035 --> M279-60920870 0.0
+R1833: M365-271010043 --> M360-271009799 0.0
+R1834: M365-271010043 --> M731-8397648836 0.0
+R1835: M366-271010120 --> M119-26408594 0.0
+R1836: M367-271234530 --> M366-271010120 0.0
+R1837: M367-271234530 --> M740-8397664629 0.0
+R1838: M368-275313548 --> M743-8412576382 289.5
+R1839: M368-275313548 --> M493-1634304127 0.0
+R1840: M369-275313568 --> M377-280045473 0.0
+R1841: M370-275313583 --> M116-26408579 0.0
+R1842: M370-275313583 --> M94-26408472 0.0
+R1843: M371-278564769 --> M287-64877802 0.0
+R1844: M371-278564769 --> M207-43545221 667.5
+R1845: M371-278564769 --> M69-16817271 0.0
+R1846: M372-278801696 --> M287-64877802 355.5
+R1847: M374-279305922 --> M375-279305925 0.0
+R1848: M374-279305922 --> M449-533705481 0.0
+R1849: M375-279305925 --> M504-1648495036 0.0
+R1850: M376-279305939 --> M820-9149350017 0.0
+R1851: M376-279305939 --> M182-30839784 150.0
+R1852: M377-280045473 --> M368-275313548 0.0
+R1853: M378-280045474 --> M207-43545221 0.0
+R1854: M378-280045474 --> M370-275313583 0.0
+R1855: M379-311629460 --> M685-8090865711 568.0
+R1856: M380-311629659 --> M887-10694562461 0.0
+R1857: M380-311629659 --> M684-8090865705 0.0
+R1858: M381-371415083 --> M383-371416578 0.0
+R1859: M381-371415083 --> M387-379037580 0.0
+R1860: M381-371415083 --> M439-476567837 0.0
+R1861: M382-371415087 --> M383-371416578 150.0
+R1862: M383-371416578 --> M382-371415087 0.0
+R1863: M383-371416578 --> M381-371415083 0.0
+R1864: M383-371416578 --> M384-371723673 150.0
+R1865: M384-371723673 --> M383-371416578 0.0
+R1866: M384-371723673 --> M386-371729746 753.5
+R1867: M384-371723673 --> M385-371723676 150.0
+R1868: M384-371723673 --> M387-379037580 0.0
+R1869: M385-371723676 --> M174-30482326 150.0
+R1870: M385-371723676 --> M384-371723673 0.0
+R1871: M385-371723676 --> M185-30846183 0.0
+R1872: M386-371729746 --> M384-371723673 0.0
+R1873: M386-371729746 --> M185-30846183 0.0
+R1874: M386-371729746 --> M132-26452249 753.5
+R1875: M387-379037580 --> M384-371723673 753.5
+R1876: M387-379037580 --> M381-371415083 0.0
+R1877: M387-379037580 --> M132-26452249 484.5
+R1878: M388-385115170 --> M676-8079027576 0.0
+R1879: M389-395506341 --> M859-9817465701 0.0
+R1880: M389-395506341 --> M263-60642571 150.0
+R1881: M389-395506341 --> M866-9817555679 0.0
+R1882: M390-395537980 --> M519-1776898706 150.0
+R1883: M391-409494432 --> M392-415307749 150.0
+R1884: M392-415307749 --> M391-409494432 0.0
+R1885: M392-415307749 --> M833-9370190996 0.0
+R1886: M392-415307749 --> M579-3289887459 150.0
+R1887: M393-420381853 --> M333-145916690 150.0
+R1888: M393-420381853 --> M620-5030074415 0.0
+R1889: M394-427707165 --> M536-2051805254 0.0
+R1890: M394-427707165 --> M588-3502422177 0.0
+R1891: M395-438174907 --> M396-438174911 0.0
+R1892: M395-438174907 --> M598-3598598236 0.0
+R1893: M395-438174907 --> M440-476567860 0.0
+R1894: M396-438174911 --> M395-438174907 0.0
+R1895: M396-438174911 --> M669-7895270444 0.0
+R1896: M397-443120833 --> M661-6987752967 616.25
+R1897: M398-450132038 --> M765-8538055102 0.0
+R1898: M398-450132038 --> M286-61739721 0.0
+R1899: M399-450132051 --> M214-49922101 0.0
+R1900: M399-450132051 --> M790-8572991974 1339.5
+R1901: M399-450132051 --> M543-2423779887 0.0
+R1902: M400-474737194 --> M401-474737197 526.5
+R1903: M400-474737194 --> M706-8188860527 0.0
+R1904: M401-474737197 --> M1-6969214 0.0
+R1905: M401-474737197 --> M800-8681129391 901.0
+R1906: M402-474737209 --> M6-16148865 0.0
+R1907: M402-474737209 --> M28-16179331 0.0
+R1908: M402-474737209 --> M880-10024848414 0.0
+R1909: M403-474741035 --> M8-16148888 748.5
+R1910: M403-474741035 --> M7-16148883 0.0
+R1911: M404-474741048 --> M4-16147901 0.0
+R1912: M404-474741048 --> M406-475349687 1041.75
+R1913: M405-474741054 --> M846-9573686967 0.0
+R1914: M405-474741054 --> M757-8413200820 0.0
+R1915: M406-475349687 --> M812-9072216040 293.25
+R1916: M406-475349687 --> M810-9072216036 748.5
+R1917: M407-476270549 --> M190-31581220 0.0
+R1918: M407-476270549 --> M130-26450660 805.25
+R1919: M407-476270549 --> M773-8554527986 0.0
+R1920: M407-476270549 --> M661-6987752967 0.0
+R1921: M408-476270555 --> M38-16196483 0.0
+R1922: M408-476270555 --> M397-443120833 0.0
+R1923: M409-476272432 --> M408-476270555 0.0
+R1924: M409-476272432 --> M388-385115170 0.0
+R1925: M410-476272433 --> M409-476272432 0.0
+R1926: M410-476272433 --> M388-385115170 0.0
+R1927: M411-476283324 --> M400-474737194 0.0
+R1928: M411-476283324 --> M419-476287161 0.0
+R1929: M412-476283351 --> M479-1535157182 0.0
+R1930: M413-476283357 --> M415-476283359 0.0
+R1931: M413-476283357 --> M417-476287150 0.0
+R1932: M414-476283358 --> M0-6968835 374.5
+R1933: M414-476283358 --> M200-33632712 42.5
+R1934: M415-476283359 --> M414-476283358 86.0
+R1935: M415-476283359 --> M418-476287156 0.0
+R1936: M416-476283363 --> M2-6983109 0.0
+R1937: M416-476283363 --> M532-1951535121 975.0
+R1938: M417-476287150 --> M950-11001695079 0.0
+R1939: M418-476287156 --> M416-476283363 0.0
+R1940: M419-476287161 --> M702-8171782893 0.0
+R1941: M420-476287164 --> M627-5154793249 0.0
+R1942: M420-476287164 --> M400-474737194 526.5
+R1943: M421-476299515 --> M755-8413141286 0.0
+R1944: M421-476299515 --> M754-8413141271 0.0
+R1945: M422-476299547 --> M813-9092651596 0.0
+R1946: M422-476299547 --> M741-8412558488 0.0
+R1947: M423-476312112 --> M20-16174204 827.5
+R1948: M424-476312113 --> M269-60735457 365.5
+R1949: M424-476312113 --> M423-476312112 0.0
+R1950: M425-476312116 --> M424-476312113 0.0
+R1951: M425-476312116 --> M268-60735320 0.0
+R1952: M426-476312121 --> M425-476312116 0.0
+R1953: M426-476312121 --> M560-2874464548 0.0
+R1954: M427-476458623 --> M63-16817224 1.0
+R1955: M427-476458623 --> M832-9205307257 0.0
+R1956: M428-476458624 --> M429-476458625 0.0
+R1957: M428-476458624 --> M260-60361369 0.0
+R1958: M429-476458625 --> M120-26414453 0.0
+R1959: M429-476458625 --> M568-2995472433 0.0
+R1960: M430-476458626 --> M789-8570024596 1027.5
+R1961: M430-476458626 --> M645-6124295897 0.0
+R1962: M431-476458633 --> M921-10760179813 0.0
+R1963: M431-476458633 --> M336-165219096 0.0
+R1964: M431-476458633 --> M698-8162353573 0.0
+R1965: M432-476458634 --> M335-165218631 0.0
+R1966: M432-476458634 --> M433-476458636 0.0
+R1967: M432-476458634 --> M336-165219096 0.0
+R1968: M433-476458636 --> M699-8162402159 0.0
+R1969: M433-476458636 --> M799-8653374399 936.5
+R1970: M434-476458642 --> M497-1645738980 0.0
+R1971: M434-476458642 --> M916-10754528244 0.0
+R1972: M435-476458645 --> M120-26414453 0.0
+R1973: M435-476458645 --> M428-476458624 0.0
+R1974: M436-476458649 --> M62-16817221 1801.0
+R1975: M437-476567808 --> M65-16817236 0.0
+R1976: M437-476567808 --> M804-9021364286 0.0
+R1977: M438-476567834 --> M672-8051717192 1243.25
+R1978: M439-476567837 --> M442-476567870 0.0
+R1979: M439-476567837 --> M381-371415083 0.0
+R1980: M440-476567860 --> M395-438174907 0.0
+R1981: M440-476567860 --> M959-11102162993 0.0
+R1982: M441-476567862 --> M607-4008186744 0.0
+R1983: M442-476567870 --> M473-1321537613 0.0
+R1984: M442-476567870 --> M769-8540561860 0.0
+R1985: M443-476567872 --> M663-7539161882 0.0
+R1986: M443-476567872 --> M473-1321537613 0.0
+R1987: M443-476567872 --> M438-476567834 1243.25
+R1988: M444-476567894 --> M440-476567860 0.0
+R1989: M445-476682359 --> M156-26730402 0.0
+R1990: M445-476682359 --> M334-162236296 0.0
+R1991: M445-476682359 --> M141-26505763 0.0
+R1992: M446-479190619 --> M453-774117364 0.0
+R1993: M446-479190619 --> M792-8593452592 0.0
+R1994: M447-479720191 --> M802-8702543668 1123.5
+R1995: M447-479720191 --> M633-5282407249 0.0
+R1996: M448-480393063 --> M6-16148865 0.0
+R1997: M448-480393063 --> M773-8554527986 0.0
+R1998: M449-533705481 --> M182-30839784 0.0
+R1999: M449-533705481 --> M375-279305925 150.0
+R2000: M450-533705485 --> M823-9149350032 150.0
+R2001: M450-533705485 --> M821-9149350026 0.0
+R2002: M451-774117067 --> M17-16174193 0.0
+R2003: M452-774117077 --> M189-31404623 0.0
+R2004: M453-774117364 --> M380-311629659 0.0
+R2005: M454-774117695 --> M539-2235814647 0.0
+R2006: M454-774117695 --> M563-2972697231 0.0
+R2007: M455-774117712 --> M638-5314589269 0.0
+R2008: M455-774117712 --> M456-774117716 0.0
+R2009: M456-774117716 --> M454-774117695 0.0
+R2010: M457-795880502 --> M468-1257135133 1200.0
+R2011: M458-797783801 --> M306-114136386 150.0
+R2012: M459-797783806 --> M991-11415662417 0.0
+R2013: M460-968461756 --> M658-6746853869 150.0
+R2014: M461-1198732787 --> M107-26408550 0.0
+R2015: M462-1207441440 --> M235-53407881 0.0
+R2016: M462-1207441440 --> M875-9886722351 7.0
+R2017: M463-1257135115 --> M467-1257135129 0.0
+R2018: M463-1257135115 --> M490-1631446875 0.0
+R2019: M464-1257135117 --> M707-8196147882 1200.0
+R2020: M464-1257135117 --> M465-1257135118 0.0
+R2021: M465-1257135118 --> M463-1257135115 0.0
+R2022: M466-1257135121 --> M49-16325236 0.0
+R2023: M466-1257135121 --> M468-1257135133 0.0
+R2024: M467-1257135129 --> M466-1257135121 0.0
+R2025: M468-1257135133 --> M464-1257135117 1200.0
+R2026: M469-1259554700 --> M457-795880502 0.0
+R2027: M469-1259554700 --> M49-16325236 0.0
+R2028: M470-1305345850 --> M577-3210392040 0.0
+R2029: M471-1305345853 --> M576-3210392036 0.0
+R2030: M472-1305345861 --> M471-1305345853 0.0
+R2031: M472-1305345861 --> M559-2845144248 0.0
+R2032: M473-1321537613 --> M443-476567872 0.0
+R2033: M473-1321537613 --> M769-8540561860 0.0
+R2034: M474-1324453021 --> M146-26509611 0.0
+R2035: M474-1324453021 --> M533-1979228613 0.0
+R2036: M474-1324453021 --> M786-8569299058 228.0
+R2037: M475-1332865333 --> M915-10742390678 0.0
+R2038: M475-1332865333 --> M470-1305345850 0.0
+R2039: M476-1353828394 --> M378-280045474 0.0
+R2040: M477-1363432172 --> M575-3210392034 0.0
+R2041: M478-1400425687 --> M556-2817666401 0.0
+R2042: M478-1400425687 --> M570-3116918902 1333.0
+R2043: M478-1400425687 --> M557-2818379103 0.0
+R2044: M479-1535157182 --> M413-476283357 0.0
+R2045: M479-1535157182 --> M417-476287150 0.0
+R2046: M480-1627101302 --> M174-30482326 0.0
+R2047: M480-1627101302 --> M481-1627101315 1800.0
+R2048: M481-1627101315 --> M175-30482327 1800.0
+R2049: M481-1627101315 --> M480-1627101302 0.0
+R2050: M482-1627225734 --> M749-8413105423 0.0
+R2051: M482-1627225734 --> M483-1627225747 0.0
+R2052: M482-1627225734 --> M149-26546554 0.0
+R2053: M483-1627225747 --> M161-27435306 0.0
+R2054: M484-1630655988 --> M626-5149942001 0.0
+R2055: M485-1630656013 --> M700-8165614345 0.0
+R2056: M486-1631431651 --> M6-16148865 0.0
+R2057: M486-1631431651 --> M448-480393063 0.0
+R2058: M487-1631431654 --> M26-16179322 0.0
+R2059: M487-1631431654 --> M637-5314587051 0.0
+R2060: M487-1631431654 --> M772-8554461499 0.0
+R2061: M487-1631431654 --> M786-8569299058 0.0
+R2062: M488-1631446853 --> M489-1631446869 0.0
+R2063: M488-1631446853 --> M521-1786421310 0.0
+R2064: M489-1631446869 --> M541-2348395365 0.0
+R2065: M490-1631446875 --> M762-8530195665 0.0
+R2066: M491-1632640893 --> M569-3063671644 0.0
+R2067: M491-1632640893 --> M809-9023317250 0.0
+R2068: M491-1632640893 --> M571-3160218387 344.0
+R2069: M491-1632640893 --> M774-8561847206 0.0
+R2070: M492-1634304125 --> M393-420381853 150.0
+R2071: M492-1634304125 --> M476-1353828394 0.0
+R2072: M493-1634304127 --> M293-96072107 0.0
+R2073: M494-1636643767 --> M647-6249466133 4112.75
+R2074: M494-1636643767 --> M710-8203834329 0.0
+R2075: M494-1636643767 --> M336-165219096 0.0
+R2076: M494-1636643767 --> M56-16373901 0.0
+R2077: M495-1642106821 --> M33-16179426 0.0
+R2078: M495-1642106821 --> M232-50824140 3643.25
+R2079: M496-1642106828 --> M495-1642106821 0.0
+R2080: M496-1642106828 --> M33-16179426 0.0
+R2081: M496-1642106828 --> M32-16179419 782.25
+R2082: M497-1645738980 --> M435-476458645 0.0
+R2083: M497-1645738980 --> M498-1645738985 0.0
+R2084: M499-1647926811 --> M738-8397664626 0.0
+R2085: M499-1647926811 --> M367-271234530 0.0
+R2086: M500-1647927633 --> M732-8397648837 0.0
+R2087: M500-1647927633 --> M363-271010011 150.0
+R2088: M501-1647939146 --> M500-1647927633 150.0
+R2089: M502-1647939148 --> M801-8685965657 0.0
+R2090: M502-1647939148 --> M501-1647939146 0.0
+R2091: M503-1647939151 --> M501-1647939146 150.0
+R2092: M504-1648495036 --> M52-16325243 0.0
+R2093: M505-1648568462 --> M476-1353828394 0.0
+R2094: M505-1648568462 --> M744-8412576383 0.0
+R2095: M506-1650833632 --> M504-1648495036 150.0
+R2096: M507-1650833637 --> M376-279305939 150.0
+R2097: M508-1650878266 --> M10-16149602 0.0
+R2098: M508-1650878266 --> M338-178886187 0.0
+R2099: M509-1653007098 --> M142-26506016 1098.5
+R2100: M509-1653007098 --> M839-9418218810 387.0
+R2101: M510-1653007107 --> M756-8413141297 0.0
+R2102: M510-1653007107 --> M752-8413141269 0.0
+R2103: M511-1653007110 --> M513-1653007127 0.0
+R2104: M511-1653007110 --> M857-9757953998 0.0
+R2105: M511-1653007110 --> M197-31815754 0.0
+R2106: M512-1653007113 --> M751-8413141268 0.0
+R2107: M512-1653007113 --> M35-16179463 0.0
+R2108: M513-1653007127 --> M511-1653007110 0.0
+R2109: M513-1653007127 --> M753-8413141270 0.0
+R2110: M513-1653007127 --> M170-29054938 0.0
+R2111: M514-1712884258 --> M141-26505763 2450.0
+R2112: M514-1712884258 --> M144-26509554 0.0
+R2113: M515-1747510585 --> M858-9757953999 0.0
+R2114: M515-1747510585 --> M155-26592507 0.0
+R2115: M515-1747510585 --> M195-31624893 387.0
+R2116: M516-1764224977 --> M764-8533006463 0.0
+R2117: M516-1764224977 --> M544-2440485974 0.0
+R2118: M517-1773518785 --> M131-26451661 1056.5
+R2119: M517-1773518785 --> M518-1773518794 0.0
+R2120: M518-1773518794 --> M45-16202333 0.0
+R2121: M519-1776898706 --> M390-395537980 0.0
+R2122: M519-1776898706 --> M883-10177883514 150.0
+R2123: M520-1783897612 --> M852-9693645275 0.0
+R2124: M520-1783897612 --> M850-9693645255 497.0
+R2125: M521-1786421310 --> M21-16174228 0.0
+R2126: M522-1797002843 --> M775-8562036460 0.0
+R2127: M522-1797002843 --> M926-10776663344 568.0
+R2128: M523-1825508387 --> M900-10695731317 0.0
+R2129: M524-1829597776 --> M704-8171991024 0.0
+R2130: M524-1829597776 --> M32-16179419 1586.75
+R2131: M524-1829597776 --> M525-1829597779 0.0
+R2132: M525-1829597779 --> M232-50824140 0.0
+R2133: M525-1829597779 --> M524-1829597776 1586.75
+R2134: M525-1829597779 --> M74-20282615 2013.25
+R2135: M526-1852229780 --> M806-9021364295 0.0
+R2136: M526-1852229780 --> M807-9021364299 0.0
+R2137: M527-1917615134 --> M922-10764232895 0.0
+R2138: M527-1917615134 --> M698-8162353573 0.0
+R2139: M528-1917615158 --> M969-11169853384 0.0
+R2140: M528-1917615158 --> M323-119858107 0.0
+R2141: M529-1917615164 --> M340-235326252 0.0
+R2142: M531-1936740901 --> M405-474741054 0.0
+R2143: M531-1936740901 --> M950-11001695079 1238.5
+R2144: M532-1951535121 --> M696-8155383122 975.0
+R2145: M532-1951535121 --> M693-8155315407 0.0
+R2146: M533-1979228613 --> M474-1324453021 228.0
+R2147: M533-1979228613 --> M18-16174197 0.0
+R2148: M534-2027914713 --> M248-59153230 0.0
+R2149: M534-2027914713 --> M374-279305922 0.0
+R2150: M535-2051805244 --> M536-2051805254 0.0
+R2151: M535-2051805244 --> M288-64885964 150.0
+R2152: M536-2051805254 --> M394-427707165 150.0
+R2153: M536-2051805254 --> M535-2051805244 0.0
+R2154: M537-2100663482 --> M295-96072424 0.0
+R2155: M537-2100663482 --> M231-50104120 300.0
+R2156: M538-2219916232 --> M526-1852229780 0.0
+R2157: M538-2219916232 --> M44-16202327 688.0
+R2158: M539-2235814647 --> M563-2972697231 0.0
+R2159: M539-2235814647 --> M19-16174201 0.0
+R2160: M540-2348368305 --> M488-1631446853 0.0
+R2161: M541-2348395365 --> M490-1631446875 0.0
+R2162: M541-2348395365 --> M467-1257135129 0.0
+R2163: M542-2418750095 --> M551-2527973191 0.0
+R2164: M542-2418750095 --> M565-2973912038 1221.0
+R2165: M542-2418750095 --> M215-50102815 0.0
+R2166: M543-2423779887 --> M342-235329965 210.0
+R2167: M543-2423779887 --> M611-4225596516 0.0
+R2168: M543-2423779887 --> M399-450132051 415.75
+R2169: M544-2440485974 --> M516-1764224977 0.0
+R2170: M544-2440485974 --> M545-2440485976 0.0
+R2171: M545-2440485976 --> M544-2440485974 0.0
+R2172: M545-2440485976 --> M550-2526583895 0.0
+R2173: M547-2520910726 --> M584-3496886208 0.0
+R2174: M547-2520910726 --> M245-59147188 0.0
+R2175: M547-2520910726 --> M580-3299015888 0.0
+R2176: M548-2520910747 --> M584-3496886208 0.0
+R2177: M548-2520910747 --> M246-59147192 0.0
+R2178: M548-2520910747 --> M198-31860333 0.0
+R2179: M549-2526583893 --> M458-797783801 150.0
+R2180: M549-2526583893 --> M835-9411133232 0.0
+R2181: M550-2526583895 --> M307-114136387 0.0
+R2182: M550-2526583895 --> M545-2440485976 0.0
+R2183: M551-2527973191 --> M847-9601814047 0.0
+R2184: M551-2527973191 --> M542-2418750095 200.75
+R2185: M551-2527973191 --> M212-49369723 422.75
+R2186: M552-2705620188 --> M742-8412558489 0.0
+R2187: M552-2705620188 --> M331-145639980 0.0
+R2188: M552-2705620188 --> M40-16196571 0.0
+R2189: M553-2715287430 --> M294-96072218 0.0
+R2190: M553-2715287430 --> M794-8600324615 0.0
+R2191: M554-2717181675 --> M392-415307749 0.0
+R2192: M555-2776925711 --> M664-7702899933 0.0
+R2193: M555-2776925711 --> M813-9092651596 0.0
+R2194: M556-2817666401 --> M559-2845144248 0.0
+R2195: M556-2817666401 --> M557-2818379103 0.0
+R2196: M556-2817666401 --> M478-1400425687 0.0
+R2197: M557-2818379103 --> M558-2845144244 0.0
+R2198: M557-2818379103 --> M556-2817666401 0.0
+R2199: M558-2845144244 --> M557-2818379103 0.0
+R2200: M558-2845144244 --> M196-31624897 0.0
+R2201: M558-2845144244 --> M559-2845144248 0.0
+R2202: M559-2845144248 --> M556-2817666401 0.0
+R2203: M559-2845144248 --> M472-1305345861 0.0
+R2204: M560-2874464548 --> M426-476312121 888.0
+R2205: M561-2964579218 --> M192-31598259 0.0
+R2206: M561-2964579218 --> M35-16179463 150.0
+R2207: M562-2972697221 --> M455-774117712 0.0
+R2208: M563-2972697231 --> M564-2972697333 0.0
+R2209: M564-2972697333 --> M489-1631446869 0.0
+R2210: M564-2972697333 --> M521-1786421310 0.0
+R2211: M565-2973912038 --> M542-2418750095 0.0
+R2212: M565-2973912038 --> M629-5221318445 0.0
+R2213: M565-2973912038 --> M34-16179429 1679.75
+R2214: M566-2976939772 --> M846-9573686967 0.0
+R2215: M566-2976939772 --> M404-474741048 0.0
+R2216: M567-2979270056 --> M224-50103752 0.0
+R2217: M567-2979270056 --> M89-26408436 0.0
+R2218: M568-2995472433 --> M588-3502422177 0.0
+R2219: M569-3063671644 --> M491-1632640893 0.0
+R2220: M569-3063671644 --> M334-162236296 0.0
+R2221: M569-3063671644 --> M147-26546531 0.0
+R2222: M570-3116918902 --> M39-16196545 0.0
+R2223: M570-3116918902 --> M478-1400425687 1333.0
+R2224: M570-3116918902 --> M795-8600374925 0.0
+R2225: M571-3160218387 --> M491-1632640893 191.0
+R2226: M572-3168140934 --> M952-11091684285 0.0
+R2227: M572-3168140934 --> M35-16179463 0.0
+R2228: M572-3168140934 --> M632-5230251438 0.0
+R2229: M573-3196822743 --> M198-31860333 0.0
+R2230: M573-3196822743 --> M245-59147188 0.0
+R2231: M573-3196822743 --> M585-3496886218 0.0
+R2232: M574-3196822744 --> M245-59147188 0.0
+R2233: M574-3196822744 --> M349-248067614 0.0
+R2234: M575-3210392034 --> M472-1305345861 0.0
+R2235: M575-3210392034 --> M471-1305345853 0.0
+R2236: M576-3210392036 --> M475-1332865333 0.0
+R2237: M576-3210392036 --> M470-1305345850 0.0
+R2238: M577-3210392040 --> M477-1363432172 0.0
+R2239: M577-3210392040 --> M583-3320241564 0.0
+R2240: M578-3215416066 --> M314-119807973 0.0
+R2241: M578-3215416066 --> M835-9411133232 150.0
+R2242: M579-3289887459 --> M596-3512583527 150.0
+R2243: M579-3289887459 --> M833-9370190996 0.0
+R2244: M579-3289887459 --> M392-415307749 0.0
+R2245: M580-3299015888 --> M581-3299015890 0.0
+R2246: M580-3299015888 --> M547-2520910726 0.0
+R2247: M581-3299015890 --> M580-3299015888 0.0
+R2248: M581-3299015890 --> M962-11161081087 0.0
+R2249: M581-3299015890 --> M246-59147192 0.0
+R2250: M582-3302261396 --> M825-9149547696 0.0
+R2251: M582-3302261396 --> M871-9886691901 0.0
+R2252: M583-3320241564 --> M183-30839912 0.0
+R2253: M583-3320241564 --> M477-1363432172 0.0
+R2254: M584-3496886208 --> M547-2520910726 150.0
+R2255: M584-3496886208 --> M198-31860333 0.0
+R2256: M585-3496886218 --> M198-31860333 0.0
+R2257: M586-3500626460 --> M144-26509554 960.5
+R2258: M586-3500626460 --> M608-4019894910 0.0
+R2259: M586-3500626460 --> M668-7731139118 0.0
+R2260: M588-3502422177 --> M394-427707165 0.0
+R2261: M588-3502422177 --> M120-26414453 0.0
+R2262: M589-3502423089 --> M282-61155931 0.0
+R2263: M589-3502423089 --> M834-9370616149 0.0
+R2264: M590-3502423694 --> M992-11464139217 0.0
+R2265: M590-3502423694 --> M979-11193380629 150.0
+R2266: M591-3502423706 --> M977-11193380623 0.0
+R2267: M591-3502423706 --> M971-11193380595 0.0
+R2268: M591-3502423706 --> M972-11193380602 1198.25
+R2269: M592-3502423707 --> M980-11193380633 0.0
+R2270: M593-3504669436 --> M702-8171782893 606.5
+R2271: M593-3504669436 --> M420-476287164 526.5
+R2272: M594-3512003994 --> M777-8562036521 0.0
+R2273: M594-3512003994 --> M613-4409076010 0.0
+R2274: M595-3512003995 --> M777-8562036521 0.0
+R2275: M596-3512583527 --> M579-3289887459 0.0
+R2276: M596-3512583527 --> M302-96073567 0.0
+R2277: M596-3512583527 --> M301-96073566 150.0
+R2278: M597-3512583532 --> M183-30839912 181.0
+R2279: M597-3512583532 --> M836-9411236022 0.0
+R2280: M598-3598598236 --> M395-438174907 0.0
+R2281: M598-3598598236 --> M132-26452249 0.0
+R2282: M598-3598598236 --> M396-438174911 0.0
+R2283: M599-3647660838 --> M606-3952348101 0.0
+R2284: M599-3647660838 --> M11-16149637 0.0
+R2285: M599-3647660838 --> M704-8171991024 0.0
+R2286: M600-3662790707 --> M595-3512003995 0.0
+R2287: M600-3662790707 --> M686-8090899168 0.0
+R2288: M601-3662790716 --> M379-311629460 568.0
+R2289: M601-3662790716 --> M602-3662790724 0.0
+R2290: M602-3662790724 --> M379-311629460 0.0
+R2291: M602-3662790724 --> M888-10694562471 0.0
+R2292: M603-3748330804 --> M219-50102864 158.75
+R2293: M603-3748330804 --> M292-95054526 0.0
+R2294: M603-3748330804 --> M358-269174389 0.0
+R2295: M604-3799250216 --> M157-26730404 862.0
+R2296: M605-3840775863 --> M284-61738609 0.0
+R2297: M606-3952348101 --> M145-26509603 0.0
+R2298: M607-4008186744 --> M958-11102162987 0.0
+R2299: M607-4008186744 --> M763-8533006462 0.0
+R2300: M608-4019894910 --> M164-28786837 0.0
+R2301: M609-4225596514 --> M611-4225596516 150.0
+R2302: M609-4225596514 --> M641-5640926630 0.0
+R2303: M610-4225596515 --> M611-4225596516 150.0
+R2304: M610-4225596515 --> M609-4225596514 0.0
+R2305: M611-4225596516 --> M610-4225596515 0.0
+R2306: M611-4225596516 --> M398-450132038 0.0
+R2307: M611-4225596516 --> M543-2423779887 300.0
+R2308: M612-4409076007 --> M778-8562036523 568.0
+R2309: M613-4409076010 --> M819-9130381311 0.0
+R2310: M613-4409076010 --> M687-8090899181 0.0
+R2311: M614-4453102273 --> M459-797783806 0.0
+R2312: M614-4453102273 --> M669-7895270444 0.0
+R2313: M615-4453102275 --> M185-30846183 0.0
+R2314: M615-4453102275 --> M305-114136375 0.0
+R2315: M616-4739686523 --> M612-4409076007 0.0
+R2316: M616-4739686523 --> M689-8090919982 0.0
+R2317: M617-4739686524 --> M688-8090919969 0.0
+R2318: M618-4739686531 --> M817-9128113135 0.0
+R2319: M618-4739686531 --> M616-4739686523 0.0
+R2320: M619-4891558785 --> M16-16174184 150.0
+R2321: M620-5030074415 --> M745-8412576384 0.0
+R2322: M620-5030074415 --> M128-26445423 0.0
+R2323: M621-5030075377 --> M815-9118662955 0.0
+R2324: M621-5030075377 --> M68-16817259 0.0
+R2325: M622-5030075433 --> M623-5030075440 0.0
+R2326: M622-5030075433 --> M620-5030074415 0.0
+R2327: M623-5030075440 --> M333-145916690 0.0
+R2328: M624-5030075442 --> M622-5030075433 0.0
+R2329: M624-5030075442 --> M623-5030075440 0.0
+R2330: M625-5149834732 --> M824-9149547628 0.0
+R2331: M625-5149834732 --> M909-10705326782 0.0
+R2332: M626-5149942001 --> M600-3662790707 0.0
+R2333: M627-5154793249 --> M412-476283351 0.0
+R2334: M627-5154793249 --> M706-8188860527 0.0
+R2335: M628-5219908847 --> M34-16179429 1200.0
+R2336: M629-5221318445 --> M217-50102830 0.0
+R2337: M629-5221318445 --> M565-2973912038 458.75
+R2338: M629-5221318445 --> M220-50102951 0.0
+R2339: M630-5221489903 --> M399-450132051 179.75
+R2340: M631-5221489947 --> M605-3840775863 0.0
+R2341: M631-5221489947 --> M646-6178976728 0.0
+R2342: M631-5221489947 --> M214-49922101 0.0
+R2343: M632-5230251438 --> M845-9493993957 0.0
+R2344: M632-5230251438 --> M572-3168140934 0.0
+R2345: M633-5282407249 --> M634-5282407252 771.5
+R2346: M633-5282407249 --> M355-248959274 0.0
+R2347: M634-5282407252 --> M31-16179414 594.0
+R2348: M634-5282407252 --> M233-50825110 177.5
+R2349: M635-5282439062 --> M30-16179400 0.0
+R2350: M635-5282439062 --> M776-8562036462 0.0
+R2351: M636-5310035837 --> M667-7717604384 0.0
+R2352: M636-5310035837 --> M905-10695812728 497.0
+R2353: M637-5314587051 --> M562-2972697221 0.0
+R2354: M637-5314587051 --> M487-1631431654 0.0
+R2355: M638-5314589269 --> M456-774117716 0.0
+R2356: M638-5314589269 --> M18-16174197 0.0
+R2357: M639-5324379024 --> M19-16174201 0.0
+R2358: M639-5324379024 --> M135-26460540 0.0
+R2359: M639-5324379024 --> M18-16174197 228.0
+R2360: M640-5640413598 --> M263-60642571 247.0
+R2361: M640-5640413598 --> M652-6746853846 0.0
+R2362: M641-5640926630 --> M660-6944727118 0.0
+R2363: M641-5640926630 --> M609-4225596514 150.0
+R2364: M642-5655788498 --> M402-474737209 0.0
+R2365: M642-5655788498 --> M7-16148883 0.0
+R2366: M643-5735600371 --> M232-50824140 354.5
+R2367: M643-5735600371 --> M662-7539161881 43.25
+R2368: M644-6053522967 --> M788-8570001523 0.0
+R2369: M644-6053522967 --> M645-6124295897 248.5
+R2370: M645-6124295897 --> M644-6053522967 0.0
+R2371: M645-6124295897 --> M789-8570024596 248.5
+R2372: M646-6178976728 --> M847-9601814047 0.0
+R2373: M646-6178976728 --> M176-30486662 150.0
+R2374: M646-6178976728 --> M631-5221489947 0.0
+R2375: M647-6249466133 --> M159-27435171 0.0
+R2376: M647-6249466133 --> M359-269548288 4112.75
+R2377: M647-6249466133 --> M494-1636643767 0.0
+R2378: M648-6264117645 --> M697-8155383128 82.5
+R2379: M648-6264117645 --> M774-8561847206 0.0
+R2380: M649-6567966989 --> M724-8319550440 0.0
+R2381: M649-6567966989 --> M342-235329965 0.0
+R2382: M650-6646074121 --> M223-50103729 0.0
+R2383: M650-6646074121 --> M910-10738926015 0.0
+R2384: M651-6746853845 --> M640-5640413598 0.0
+R2385: M651-6746853845 --> M652-6746853846 150.0
+R2386: M652-6746853846 --> M657-6746853862 150.0
+R2387: M653-6746853849 --> M651-6746853845 150.0
+R2388: M654-6746853851 --> M653-6746853849 0.0
+R2389: M654-6746853851 --> M658-6746853869 0.0
+R2390: M655-6746853852 --> M654-6746853851 0.0
+R2391: M656-6746853855 --> M265-60697534 0.0
+R2392: M656-6746853855 --> M655-6746853852 0.0
+R2393: M657-6746853862 --> M641-5640926630 150.0
+R2394: M657-6746853862 --> M660-6944727118 0.0
+R2395: M658-6746853869 --> M653-6746853849 150.0
+R2396: M658-6746853869 --> M460-968461756 0.0
+R2397: M659-6944630655 --> M719-8319548212 0.0
+R2398: M659-6944630655 --> M963-11161081090 0.0
+R2399: M660-6944727118 --> M656-6746853855 0.0
+R2400: M661-6987752967 --> M407-476270549 616.25
+R2401: M661-6987752967 --> M256-59940116 0.0
+R2402: M662-7539161881 --> M184-30846178 0.0
+R2403: M662-7539161881 --> M663-7539161882 1243.25
+R2404: M663-7539161882 --> M443-476567872 1243.25
+R2405: M663-7539161882 --> M643-5735600371 0.0
+R2406: M664-7702899933 --> M555-2776925711 0.0
+R2407: M664-7702899933 --> M808-9022423244 0.0
+R2408: M665-7717604334 --> M899-10694675361 0.0
+R2409: M666-7717604344 --> M680-8090844551 0.0
+R2410: M666-7717604344 --> M895-10694673215 7.0
+R2411: M667-7717604384 --> M523-1825508387 0.0
+R2412: M668-7731139118 --> M771-8541583150 0.0
+R2413: M668-7731139118 --> M608-4019894910 0.0
+R2414: M668-7731139118 --> M586-3500626460 238.0
+R2415: M669-7895270444 --> M396-438174911 0.0
+R2416: M669-7895270444 --> M459-797783806 0.0
+R2417: M670-8032947845 --> M228-50103879 0.0
+R2418: M671-8032964258 --> M102-26408499 0.0
+R2419: M671-8032964258 --> M129-26450655 0.0
+R2420: M672-8051717192 --> M66-16817239 1243.25
+R2421: M672-8051717192 --> M770-8540561861 0.0
+R2422: M673-8063813255 --> M130-26450660 189.5
+R2423: M673-8063813255 --> M674-8063813261 0.0
+R2424: M673-8063813255 --> M129-26450655 0.0
+R2425: M674-8063813261 --> M169-28975783 0.0
+R2426: M675-8066980250 --> M410-476272433 0.0
+R2427: M675-8066980250 --> M343-235883080 813.0
+R2428: M676-8079027576 --> M108-26408553 0.0
+R2429: M676-8079027576 --> M237-53456807 0.0
+R2430: M677-8089336276 --> M273-60735551 0.0
+R2431: M678-8090844545 --> M679-8090844547 0.0
+R2432: M679-8090844547 --> M666-7717604344 0.0
+R2433: M679-8090844547 --> M890-10694661883 0.0
+R2434: M680-8090844551 --> M898-10694673233 0.0
+R2435: M681-8090844553 --> M897-10694673230 568.0
+R2436: M682-8090862962 --> M904-10695731325 575.0
+R2437: M683-8090862980 --> M855-9698983002 1072.0
+R2438: M684-8090865705 --> M484-1630655988 0.0
+R2439: M684-8090865705 --> M887-10694562461 0.0
+R2440: M684-8090865705 --> M908-10705326775 0.0
+R2441: M685-8090865711 --> M893-10694661902 568.0
+R2442: M686-8090899168 --> M595-3512003995 0.0
+R2443: M686-8090899168 --> M594-3512003994 0.0
+R2444: M687-8090899181 --> M791-8593452537 0.0
+R2445: M687-8090899181 --> M686-8090899168 0.0
+R2446: M688-8090919969 --> M775-8562036460 0.0
+R2447: M689-8090919982 --> M779-8562036551 0.0
+R2448: M689-8090919982 --> M617-4739686524 0.0
+R2449: M690-8109060856 --> M373-279305901 0.0
+R2450: M690-8109060856 --> M822-9149350027 0.0
+R2451: M691-8155315404 --> M648-6264117645 0.0
+R2452: M692-8155315405 --> M691-8155315404 0.0
+R2453: M692-8155315405 --> M695-8155383121 1276.0
+R2454: M693-8155315407 --> M695-8155383121 0.0
+R2455: M693-8155315407 --> M696-8155383122 52.5
+R2456: M694-8155383118 --> M2-6983109 1306.0
+R2457: M695-8155383121 --> M924-10764552890 1276.0
+R2458: M695-8155383121 --> M691-8155315404 0.0
+R2459: M696-8155383122 --> M430-476458626 1027.5
+R2460: M697-8155383128 --> M694-8155383118 82.5
+R2461: M697-8155383128 --> M924-10764552890 0.0
+R2462: M698-8162353573 --> M431-476458633 0.0
+R2463: M698-8162353573 --> M57-16373943 0.0
+R2464: M698-8162353573 --> M527-1917615134 0.0
+R2465: M699-8162402159 --> M433-476458636 936.5
+R2466: M699-8162402159 --> M148-26546534 235.5
+R2467: M699-8162402159 --> M335-165218631 0.0
+R2468: M700-8165614345 --> M178-30536866 0.0
+R2469: M701-8171408922 --> M177-30536863 0.0
+R2470: M701-8171408922 --> M274-60735583 0.0
+R2471: M702-8171782893 --> M593-3504669436 0.0
+R2472: M702-8171782893 --> M9-16149404 941.0
+R2473: M702-8171782893 --> M210-47844772 0.0
+R2474: M703-8171925731 --> M759-8493842241 0.0
+R2475: M703-8171925731 --> M199-33632654 0.0
+R2476: M704-8171991024 --> M71-16820750 0.0
+R2477: M704-8171991024 --> M241-54188757 0.0
+R2478: M704-8171991024 --> M524-1829597776 0.0
+R2479: M704-8171991024 --> M599-3647660838 0.0
+R2480: M705-8180094913 --> M326-119887477 616.25
+R2481: M706-8188860527 --> M412-476283351 0.0
+R2482: M707-8196147882 --> M465-1257135118 0.0
+R2483: M707-8196147882 --> M130-26450660 1200.0
+R2484: M708-8196603055 --> M323-119858107 0.0
+R2485: M708-8196603055 --> M290-65185643 387.75
+R2486: M709-8203834323 --> M918-10754557559 1564.5
+R2487: M709-8203834323 --> M917-10754557557 1.0
+R2488: M710-8203834329 --> M494-1636643767 1564.5
+R2489: M710-8203834329 --> M427-476458623 0.0
+R2490: M711-8241131570 --> M66-16817239 0.0
+R2491: M711-8241131570 --> M356-249335932 451.0
+R2492: M711-8241131570 --> M175-30482327 0.0
+R2493: M712-8241131572 --> M437-476567808 0.0
+R2494: M712-8241131572 --> M803-9021364284 451.0
+R2495: M713-8258312183 --> M714-8258312186 0.0
+R2496: M713-8258312183 --> M683-8090862980 575.0
+R2497: M714-8258312186 --> M683-8090862980 497.0
+R2498: M714-8258312186 --> M907-10695812746 0.0
+R2499: M715-8258312187 --> M901-10695731318 0.0
+R2500: M715-8258312187 --> M665-7717604334 0.0
+R2501: M716-8258312190 --> M682-8090862962 0.0
+R2502: M716-8258312190 --> M903-10695731323 0.0
+R2503: M717-8258312191 --> M895-10694673215 0.0
+R2504: M717-8258312191 --> M678-8090844545 0.0
+R2505: M718-8258312196 --> M894-10694673210 7.0
+R2506: M718-8258312196 --> M681-8090844553 0.0
+R2507: M719-8319548212 --> M720-8319548214 0.0
+R2508: M720-8319548214 --> M730-8319550456 0.0
+R2509: M720-8319548214 --> M868-9817555757 0.0
+R2510: M721-8319550428 --> M719-8319548212 150.0
+R2511: M721-8319550428 --> M659-6944630655 0.0
+R2512: M722-8319550434 --> M723-8319550435 0.0
+R2513: M723-8319550435 --> M866-9817555679 0.0
+R2514: M723-8319550435 --> M726-8319550444 0.0
+R2515: M724-8319550440 --> M725-8319550441 0.0
+R2516: M725-8319550441 --> M867-9817555699 0.0
+R2517: M725-8319550441 --> M722-8319550434 0.0
+R2518: M726-8319550444 --> M727-8319550445 0.0
+R2519: M727-8319550445 --> M728-8319550449 0.0
+R2520: M727-8319550445 --> M865-9817555671 0.0
+R2521: M728-8319550449 --> M729-8319550450 0.0
+R2522: M729-8319550450 --> M649-6567966989 0.0
+R2523: M729-8319550450 --> M724-8319550440 0.0
+R2524: M730-8319550456 --> M721-8319550428 0.0
+R2525: M731-8397648836 --> M732-8397648837 0.0
+R2526: M731-8397648836 --> M360-271009799 0.0
+R2527: M732-8397648837 --> M733-8397648839 0.0
+R2528: M732-8397648837 --> M737-8397657674 0.0
+R2529: M733-8397648839 --> M734-8397657667 0.0
+R2530: M733-8397648839 --> M735-8397657668 0.0
+R2531: M734-8397657667 --> M364-271010035 0.0
+R2532: M735-8397657668 --> M739-8397664627 0.0
+R2533: M735-8397657668 --> M734-8397657667 0.0
+R2534: M736-8397657671 --> M366-271010120 0.0
+R2535: M737-8397657674 --> M736-8397657671 0.0
+R2536: M737-8397657674 --> M731-8397648836 0.0
+R2537: M738-8397664626 --> M740-8397664629 0.0
+R2538: M738-8397664626 --> M735-8397657668 0.0
+R2539: M739-8397664627 --> M738-8397664626 0.0
+R2540: M739-8397664627 --> M362-271009997 0.0
+R2541: M740-8397664629 --> M737-8397657674 0.0
+R2542: M740-8397664629 --> M736-8397657671 0.0
+R2543: M741-8412558488 --> M742-8412558489 0.0
+R2544: M741-8412558488 --> M505-1648568462 0.0
+R2545: M742-8412558489 --> M741-8412558488 0.0
+R2546: M742-8412558489 --> M422-476299547 0.0
+R2547: M742-8412558489 --> M552-2705620188 0.0
+R2548: M743-8412576382 --> M624-5030075442 0.0
+R2549: M743-8412576382 --> M160-27435305 289.5
+R2550: M744-8412576383 --> M743-8412576382 0.0
+R2551: M744-8412576383 --> M624-5030075442 0.0
+R2552: M745-8412576384 --> M622-5030075433 0.0
+R2553: M745-8412576384 --> M160-27435305 0.0
+R2554: M746-8413081623 --> M69-16817271 0.0
+R2555: M746-8413081623 --> M750-8413105424 289.5
+R2556: M747-8413102509 --> M748-8413102510 0.0
+R2557: M747-8413102509 --> M749-8413105423 1280.0
+R2558: M748-8413102510 --> M747-8413102509 1280.0
+R2559: M748-8413102510 --> M68-16817259 0.0
+R2560: M748-8413102510 --> M499-1647926811 0.0
+R2561: M749-8413105423 --> M750-8413105424 1280.0
+R2562: M749-8413105423 --> M482-1627225734 0.0
+R2563: M749-8413105423 --> M483-1627225747 0.0
+R2564: M750-8413105424 --> M749-8413105423 0.0
+R2565: M750-8413105424 --> M748-8413102510 1569.5
+R2566: M751-8413141268 --> M754-8413141271 0.0
+R2567: M751-8413141268 --> M758-8413200822 0.0
+R2568: M752-8413141269 --> M751-8413141268 0.0
+R2569: M752-8413141269 --> M756-8413141297 0.0
+R2570: M753-8413141270 --> M752-8413141269 0.0
+R2571: M753-8413141270 --> M502-1647939148 0.0
+R2572: M754-8413141271 --> M753-8413141270 0.0
+R2573: M754-8413141271 --> M755-8413141286 0.0
+R2574: M755-8413141286 --> M511-1653007110 0.0
+R2575: M756-8413141297 --> M512-1653007113 0.0
+R2576: M757-8413200820 --> M758-8413200822 0.0
+R2577: M757-8413200820 --> M3-16147719 0.0
+R2578: M757-8413200820 --> M846-9573686967 0.0
+R2579: M758-8413200822 --> M757-8413200820 0.0
+R2580: M758-8413200822 --> M35-16179463 0.0
+R2581: M758-8413200822 --> M531-1936740901 86.0
+R2582: M759-8493842241 --> M29-16179368 1200.0
+R2583: M759-8493842241 --> M703-8171925731 0.0
+R2584: M759-8493842241 --> M2-6983109 0.0
+R2585: M759-8493842241 --> M204-33699959 0.0
+R2586: M760-8504589784 --> M266-60735313 0.0
+R2587: M761-8530195655 --> M27-16179330 0.0
+R2588: M761-8530195655 --> M540-2348368305 0.0
+R2589: M762-8530195665 --> M540-2348368305 0.0
+R2590: M762-8530195665 --> M761-8530195655 0.0
+R2591: M763-8533006462 --> M961-11102162998 0.0
+R2592: M763-8533006462 --> M958-11102162987 0.0
+R2593: M764-8533006463 --> M763-8533006462 0.0
+R2594: M764-8533006463 --> M441-476567862 0.0
+R2595: M765-8538055102 --> M286-61739721 0.0
+R2596: M765-8538055102 --> M768-8538055111 0.0
+R2597: M766-8538055103 --> M765-8538055102 0.0
+R2598: M766-8538055103 --> M262-60642222 0.0
+R2599: M767-8538055110 --> M222-50103728 0.0
+R2600: M767-8538055110 --> M766-8538055103 0.0
+R2601: M768-8538055111 --> M767-8538055110 0.0
+R2602: M768-8538055111 --> M630-5221489903 0.0
+R2603: M769-8540561860 --> M770-8540561861 0.0
+R2604: M769-8540561860 --> M438-476567834 0.0
+R2605: M769-8540561860 --> M473-1321537613 0.0
+R2606: M770-8540561861 --> M769-8540561860 0.0
+R2607: M770-8540561861 --> M439-476567837 0.0
+R2608: M771-8541583150 --> M668-7731139118 238.0
+R2609: M771-8541583150 --> M163-28786835 0.0
+R2610: M772-8554461499 --> M210-47844772 106.5
+R2611: M772-8554461499 --> M487-1631431654 0.0
+R2612: M772-8554461499 --> M26-16179322 0.0
+R2613: M772-8554461499 --> M9-16149404 0.0
+R2614: M773-8554527986 --> M448-480393063 0.0
+R2615: M773-8554527986 --> M407-476270549 0.0
+R2616: M773-8554527986 --> M27-16179330 0.0
+R2617: M774-8561847206 --> M491-1632640893 153.0
+R2618: M774-8561847206 --> M147-26546531 0.0
+R2619: M774-8561847206 --> M648-6264117645 82.5
+R2620: M774-8561847206 --> M29-16179368 0.0
+R2621: M775-8562036460 --> M776-8562036462 0.0
+R2622: M775-8562036460 --> M635-5282439062 0.0
+R2623: M775-8562036460 --> M926-10776663344 0.0
+R2624: M776-8562036462 --> M775-8562036460 0.0
+R2625: M776-8562036462 --> M802-8702543668 0.0
+R2626: M777-8562036521 --> M818-9128113140 0.0
+R2627: M778-8562036523 --> M613-4409076010 0.0
+R2628: M778-8562036523 --> M819-9130381311 568.0
+R2629: M779-8562036551 --> M688-8090919969 0.0
+R2630: M779-8562036551 --> M618-4739686531 0.0
+R2631: M780-8567559031 --> M781-8567559033 0.0
+R2632: M780-8567559031 --> M288-64885964 0.0
+R2633: M781-8567559033 --> M785-8567559051 150.0
+R2634: M782-8567559034 --> M784-8567559045 0.0
+R2635: M783-8567559036 --> M780-8567559031 0.0
+R2636: M784-8567559045 --> M783-8567559036 0.0
+R2637: M784-8567559045 --> M925-10774312806 0.0
+R2638: M785-8567559051 --> M782-8567559034 0.0
+R2639: M785-8567559051 --> M357-255161937 150.0
+R2640: M786-8569299058 --> M210-47844772 228.0
+R2641: M786-8569299058 --> M487-1631431654 0.0
+R2642: M786-8569299058 --> M11-16149637 0.0
+R2643: M786-8569299058 --> M474-1324453021 0.0
+R2644: M787-8570001522 --> M788-8570001523 0.0
+R2645: M787-8570001522 --> M644-6053522967 248.5
+R2646: M787-8570001522 --> M138-26505758 0.0
+R2647: M788-8570001523 --> M787-8570001522 248.5
+R2648: M788-8570001523 --> M923-10764232897 0.0
+R2649: M788-8570001523 --> M47-16204079 0.0
+R2650: M789-8570024596 --> M430-476458626 0.0
+R2651: M789-8570024596 --> M692-8155315405 1276.0
+R2652: M790-8572991974 --> M633-5282407249 771.5
+R2653: M790-8572991974 --> M447-479720191 568.0
+R2654: M791-8593452537 --> M601-3662790716 568.0
+R2655: M792-8593452592 --> M453-774117364 0.0
+R2656: M792-8593452592 --> M886-10694562398 0.0
+R2657: M793-8593452597 --> M602-3662790724 0.0
+R2658: M793-8593452597 --> M626-5149942001 0.0
+R2659: M794-8600324615 --> M39-16196545 0.0
+R2660: M794-8600324615 --> M796-8602325100 0.0
+R2661: M795-8600374925 --> M553-2715287430 0.0
+R2662: M796-8602325100 --> M797-8602325105 0.0
+R2663: M796-8602325100 --> M794-8600324615 0.0
+R2664: M796-8602325100 --> M798-8602325107 0.0
+R2665: M797-8602325105 --> M537-2100663482 0.0
+R2666: M798-8602325107 --> M231-50104120 0.0
+R2667: M798-8602325107 --> M797-8602325105 0.0
+R2668: M798-8602325107 --> M796-8602325100 0.0
+R2669: M799-8653374399 --> M699-8162402159 1172.0
+R2670: M799-8653374399 --> M62-16817221 0.0
+R2671: M800-8681129391 --> M1-6969214 0.0
+R2672: M800-8681129391 --> M131-26451661 901.0
+R2673: M802-8702543668 --> M447-479720191 555.5
+R2674: M802-8702543668 --> M522-1797002843 568.0
+R2675: M803-9021364284 --> M538-2219916232 451.0
+R2676: M804-9021364286 --> M806-9021364295 0.0
+R2677: M804-9021364286 --> M807-9021364299 0.0
+R2678: M805-9021364287 --> M65-16817236 0.0
+R2679: M805-9021364287 --> M804-9021364286 0.0
+R2680: M806-9021364295 --> M809-9023317250 0.0
+R2681: M807-9021364299 --> M437-476567808 0.0
+R2682: M807-9021364299 --> M803-9021364284 0.0
+R2683: M808-9022423244 --> M664-7702899933 150.0
+R2684: M809-9023317250 --> M491-1632640893 0.0
+R2685: M809-9023317250 --> M805-9021364287 0.0
+R2686: M810-9072216036 --> M403-474741035 748.5
+R2687: M810-9072216036 --> M812-9072216040 0.0
+R2688: M811-9072216037 --> M810-9072216036 0.0
+R2689: M811-9072216037 --> M4-16147901 748.5
+R2690: M812-9072216040 --> M211-47923535 293.25
+R2691: M813-9092651596 --> M422-476299547 0.0
+R2692: M813-9092651596 --> M555-2776925711 0.0
+R2693: M814-9118662952 --> M192-31598259 0.0
+R2694: M814-9118662952 --> M561-2964579218 150.0
+R2695: M815-9118662955 --> M209-43560818 0.0
+R2696: M815-9118662955 --> M814-9118662952 0.0
+R2697: M816-9128031055 --> M618-4739686531 0.0
+R2698: M816-9128031055 --> M817-9128113135 568.0
+R2699: M817-9128113135 --> M612-4409076007 568.0
+R2700: M818-9128113140 --> M617-4739686524 0.0
+R2701: M818-9128113140 --> M689-8090919982 0.0
+R2702: M819-9130381311 --> M791-8593452537 568.0
+R2703: M820-9149350017 --> M259-59994899 0.0
+R2704: M821-9149350026 --> M449-533705481 0.0
+R2705: M821-9149350026 --> M823-9149350032 0.0
+R2706: M822-9149350027 --> M821-9149350026 0.0
+R2707: M822-9149350027 --> M373-279305901 0.0
+R2708: M823-9149350032 --> M534-2027914713 0.0
+R2709: M824-9149547628 --> M829-9149547717 0.0
+R2710: M824-9149547628 --> M180-30536871 0.0
+R2711: M825-9149547696 --> M827-9149547710 0.0
+R2712: M825-9149547696 --> M179-30536868 0.0
+R2713: M826-9149547698 --> M701-8171408922 0.0
+R2714: M827-9149547710 --> M826-9149547698 0.0
+R2715: M828-9149547713 --> M179-30536868 0.0
+R2716: M828-9149547713 --> M582-3302261396 0.0
+R2717: M829-9149547717 --> M828-9149547713 0.0
+R2718: M830-9149547720 --> M180-30536871 0.0
+R2719: M830-9149547720 --> M625-5149834732 0.0
+R2720: M831-9205307256 --> M916-10754528244 0.0
+R2721: M831-9205307256 --> M832-9205307257 0.0
+R2722: M832-9205307257 --> M831-9205307256 0.0
+R2723: M832-9205307257 --> M63-16817224 0.0
+R2724: M833-9370190996 --> M554-2717181675 0.0
+R2725: M834-9370616149 --> M982-11193405739 1048.25
+R2726: M835-9411133232 --> M315-119807974 0.0
+R2727: M835-9411133232 --> M549-2526583893 150.0
+R2728: M836-9411236022 --> M298-96073287 0.0
+R2729: M836-9411236022 --> M837-9411236029 0.0
+R2730: M836-9411236022 --> M303-96076140 0.0
+R2731: M837-9411236029 --> M299-96073377 0.0
+R2732: M838-9418218809 --> M839-9418218810 0.0
+R2733: M838-9418218809 --> M509-1653007098 0.0
+R2734: M839-9418218810 --> M838-9418218809 0.0
+R2735: M839-9418218810 --> M515-1747510585 387.0
+R2736: M840-9429299334 --> M650-6646074121 0.0
+R2737: M840-9429299334 --> M910-10738926015 0.0
+R2738: M841-9493993937 --> M843-9493993947 0.0
+R2739: M842-9493993938 --> M96-26408478 0.0
+R2740: M843-9493993947 --> M143-26506027 0.0
+R2741: M843-9493993947 --> M632-5230251438 0.0
+R2742: M844-9493993955 --> M841-9493993937 0.0
+R2743: M844-9493993955 --> M330-140343212 0.0
+R2744: M845-9493993957 --> M143-26506027 0.0
+R2745: M845-9493993957 --> M842-9493993938 0.0
+R2746: M846-9573686967 --> M757-8413200820 0.0
+R2747: M846-9573686967 --> M566-2976939772 0.0
+R2748: M847-9601814047 --> M551-2527973191 0.0
+R2749: M847-9601814047 --> M646-6178976728 150.0
+R2750: M848-9644363230 --> M258-59940128 141.5
+R2751: M849-9693645246 --> M854-9693645281 497.0
+R2752: M849-9693645246 --> M851-9693645263 0.0
+R2753: M850-9693645255 --> M911-10738926049 497.0
+R2754: M851-9693645263 --> M914-10738926080 0.0
+R2755: M852-9693645275 --> M853-9693645279 0.0
+R2756: M852-9693645275 --> M854-9693645281 0.0
+R2757: M853-9693645279 --> M911-10738926049 0.0
+R2758: M853-9693645279 --> M849-9693645246 0.0
+R2759: M854-9693645281 --> M913-10738926070 497.0
+R2760: M855-9698983002 --> M856-9698983006 1072.0
+R2761: M856-9698983006 --> M851-9693645263 0.0
+R2762: M856-9698983006 --> M849-9693645246 497.0
+R2763: M857-9757953998 --> M858-9757953999 0.0
+R2764: M857-9757953998 --> M155-26592507 0.0
+R2765: M858-9757953999 --> M857-9757953998 0.0
+R2766: M858-9757953999 --> M513-1653007127 0.0
+R2767: M859-9817465701 --> M389-395506341 150.0
+R2768: M859-9817465701 --> M862-9817465716 0.0
+R2769: M860-9817465702 --> M861-9817465708 0.0
+R2770: M861-9817465708 --> M862-9817465716 0.0
+R2771: M861-9817465708 --> M859-9817465701 0.0
+R2772: M862-9817465716 --> M863-9817555618 0.0
+R2773: M863-9817555618 --> M864-9817555647 0.0
+R2774: M863-9817555618 --> M860-9817465702 0.0
+R2775: M864-9817555647 --> M860-9817465702 0.0
+R2776: M864-9817555647 --> M867-9817555699 0.0
+R2777: M865-9817555671 --> M868-9817555757 0.0
+R2778: M865-9817555671 --> M728-8319550449 0.0
+R2779: M866-9817555679 --> M726-8319550444 0.0
+R2780: M866-9817555679 --> M389-395506341 0.0
+R2781: M867-9817555699 --> M864-9817555647 0.0
+R2782: M867-9817555699 --> M722-8319550434 0.0
+R2783: M868-9817555757 --> M865-9817555671 0.0
+R2784: M868-9817555757 --> M730-8319550456 0.0
+R2785: M869-9832586995 --> M461-1198732787 0.0
+R2786: M869-9832586995 --> M670-8032947845 0.0
+R2787: M870-9886691896 --> M939-10968959533 0.0
+R2788: M870-9886691896 --> M942-10968959541 7.0
+R2789: M871-9886691901 --> M941-10968959540 0.0
+R2790: M871-9886691901 --> M582-3302261396 0.0
+R2791: M872-9886722331 --> M874-9886722346 0.0
+R2792: M872-9886722331 --> M940-10968959536 7.0
+R2793: M873-9886722343 --> M872-9886722331 7.0
+R2794: M874-9886722346 --> M871-9886691901 0.0
+R2795: M875-9886722351 --> M873-9886722343 7.0
+R2796: M875-9886722351 --> M874-9886722346 0.0
+R2797: M876-9886722360 --> M943-10968959544 0.0
+R2798: M876-9886722360 --> M873-9886722343 0.0
+R2799: M877-9886722377 --> M935-10968762415 0.0
+R2800: M878-9887307313 --> M937-10968762425 0.0
+R2801: M878-9887307313 --> M328-119905088 0.0
+R2802: M879-9974299702 --> M507-1650833637 0.0
+R2803: M880-10024848414 --> M402-474737209 0.0
+R2804: M880-10024848414 --> M927-10780523701 0.0
+R2805: M881-10045516912 --> M64-16817227 0.0
+R2806: M881-10045516912 --> M882-10045516913 1800.0
+R2807: M882-10045516913 --> M436-476458649 1800.0
+R2808: M882-10045516913 --> M919-10754557560 0.0
+R2809: M883-10177883514 --> M342-235329965 150.0
+R2810: M883-10177883514 --> M884-10177913518 0.0
+R2811: M884-10177913518 --> M519-1776898706 0.0
+R2812: M884-10177913518 --> M962-11161081087 0.0
+R2813: M885-10270125611 --> M206-36975365 0.0
+R2814: M886-10694562398 --> M793-8593452597 0.0
+R2815: M887-10694562461 --> M886-10694562398 0.0
+R2816: M887-10694562461 --> M484-1630655988 0.0
+R2817: M888-10694562471 --> M792-8593452592 0.0
+R2818: M888-10694562471 --> M685-8090865711 0.0
+R2819: M889-10694661878 --> M666-7717604344 7.0
+R2820: M889-10694661878 --> M680-8090844551 0.0
+R2821: M890-10694661883 --> M988-11210974738 0.0
+R2822: M891-10694661891 --> M890-10694661883 0.0
+R2823: M891-10694661891 --> M678-8090844545 0.0
+R2824: M892-10694661895 --> M891-10694661891 0.0
+R2825: M892-10694661895 --> M717-8258312191 0.0
+R2826: M893-10694661902 --> M718-8258312196 0.0
+R2827: M893-10694661902 --> M681-8090844553 568.0
+R2828: M894-10694673210 --> M717-8258312191 0.0
+R2829: M894-10694673210 --> M897-10694673230 7.0
+R2830: M895-10694673215 --> M896-10694673217 7.0
+R2831: M896-10694673217 --> M718-8258312196 7.0
+R2832: M896-10694673217 --> M898-10694673233 0.0
+R2833: M897-10694673230 --> M902-10695731320 575.0
+R2834: M898-10694673233 --> M446-479190619 0.0
+R2835: M899-10694675361 --> M892-10694661895 0.0
+R2836: M900-10695731317 --> M715-8258312187 0.0
+R2837: M900-10695731317 --> M665-7717604334 0.0
+R2838: M901-10695731318 --> M716-8258312190 0.0
+R2839: M901-10695731318 --> M899-10694675361 0.0
+R2840: M902-10695731320 --> M682-8090862962 575.0
+R2841: M902-10695731320 --> M716-8258312190 0.0
+R2842: M903-10695731323 --> M715-8258312187 0.0
+R2843: M903-10695731323 --> M904-10695731325 0.0
+R2844: M904-10695731325 --> M713-8258312183 575.0
+R2845: M905-10695812728 --> M667-7717604384 0.0
+R2846: M905-10695812728 --> M906-10695812744 497.0
+R2847: M906-10695812744 --> M714-8258312186 497.0
+R2848: M906-10695812744 --> M523-1825508387 0.0
+R2849: M907-10695812746 --> M905-10695812728 0.0
+R2850: M907-10695812746 --> M855-9698983002 0.0
+R2851: M908-10705326775 --> M452-774117077 0.0
+R2852: M908-10705326775 --> M684-8090865705 0.0
+R2853: M909-10705326782 --> M451-774117067 0.0
+R2854: M909-10705326782 --> M625-5149834732 0.0
+R2855: M910-10738926015 --> M261-60640997 0.0
+R2856: M911-10738926049 --> M636-5310035837 497.0
+R2857: M912-10738926058 --> M650-6646074121 0.0
+R2858: M913-10738926070 --> M520-1783897612 497.0
+R2859: M913-10738926070 --> M912-10738926058 0.0
+R2860: M914-10738926080 --> M567-2979270056 0.0
+R2861: M914-10738926080 --> M912-10738926058 0.0
+R2862: M915-10742390678 --> M343-235883080 0.0
+R2863: M915-10742390678 --> M475-1332865333 0.0
+R2864: M916-10754528244 --> M434-476458642 0.0
+R2865: M916-10754528244 --> M831-9205307256 0.0
+R2866: M917-10754557557 --> M427-476458623 1.0
+R2867: M917-10754557557 --> M918-10754557559 0.0
+R2868: M918-10754557559 --> M710-8203834329 1564.5
+R2869: M919-10754557560 --> M917-10754557557 0.0
+R2870: M919-10754557560 --> M436-476458649 1.0
+R2871: M920-10757670967 --> M876-9886722360 0.0
+R2872: M920-10757670967 --> M937-10968762425 0.0
+R2873: M921-10760179813 --> M431-476458633 0.0
+R2874: M921-10760179813 --> M432-476458634 0.0
+R2875: M922-10764232895 --> M527-1917615134 0.0
+R2876: M922-10764232895 --> M923-10764232897 0.0
+R2877: M923-10764232897 --> M922-10764232895 0.0
+R2878: M923-10764232897 --> M787-8570001522 0.0
+R2879: M924-10764552890 --> M693-8155315407 52.5
+R2880: M924-10764552890 --> M694-8155383118 1223.5
+R2881: M925-10774312806 --> M187-31297421 0.0
+R2882: M925-10774312806 --> M783-8567559036 0.0
+R2883: M926-10776663344 --> M816-9128031055 568.0
+R2884: M927-10780523701 --> M9-16149404 0.0
+R2885: M927-10780523701 --> M593-3504669436 1133.0
+R2886: M927-10780523701 --> M211-47923535 0.0
+R2887: M928-10964965984 --> M42-16202274 0.0
+R2888: M928-10964965984 --> M46-16202360 0.0
+R2889: M928-10964965984 --> M337-178880698 0.0
+R2890: M929-10968683491 --> M989-11210974741 7.0
+R2891: M930-10968683492 --> M929-10968683491 0.0
+R2892: M930-10968683492 --> M933-10968683499 0.0
+R2893: M931-10968683497 --> M987-11210966326 0.0
+R2894: M932-10968683498 --> M931-10968683497 0.0
+R2895: M932-10968683498 --> M938-10968959518 0.0
+R2896: M933-10968683499 --> M932-10968683498 0.0
+R2897: M933-10968683499 --> M989-11210974741 0.0
+R2898: M934-10968762405 --> M619-4891558785 150.0
+R2899: M934-10968762405 --> M878-9887307313 0.0
+R2900: M934-10968762405 --> M328-119905088 0.0
+R2901: M935-10968762415 --> M270-60735479 0.0
+R2902: M935-10968762415 --> M619-4891558785 0.0
+R2903: M936-10968762422 --> M877-9886722377 0.0
+R2904: M936-10968762422 --> M876-9886722360 0.0
+R2905: M937-10968762425 --> M936-10968762422 0.0
+R2906: M938-10968959518 --> M987-11210966326 0.0
+R2907: M938-10968959518 --> M930-10968683492 0.0
+R2908: M939-10968959533 --> M945-10968959553 0.0
+R2909: M940-10968959536 --> M943-10968959544 0.0
+R2910: M940-10968959536 --> M870-9886691896 7.0
+R2911: M941-10968959540 --> M870-9886691896 0.0
+R2912: M941-10968959540 --> M940-10968959536 0.0
+R2913: M942-10968959541 --> M986-11210957113 7.0
+R2914: M943-10968959544 --> M939-10968959533 0.0
+R2915: M943-10968959544 --> M949-10968985295 0.0
+R2916: M944-10968959551 --> M946-10968959554 0.0
+R2917: M944-10968959551 --> M947-10968959555 0.0
+R2918: M945-10968959553 --> M946-10968959554 0.0
+R2919: M945-10968959553 --> M942-10968959541 0.0
+R2920: M946-10968959554 --> M949-10968985295 0.0
+R2921: M946-10968959554 --> M947-10968959555 0.0
+R2922: M947-10968959555 --> M948-10968959562 0.0
+R2923: M948-10968959562 --> M234-53407866 0.0
+R2924: M948-10968959562 --> M878-9887307313 0.0
+R2925: M949-10968985295 --> M920-10757670967 0.0
+R2926: M950-11001695079 --> M983-11199438780 86.0
+R2927: M950-11001695079 --> M531-1936740901 1152.5
+R2928: M951-11059759322 --> M44-16202327 0.0
+R2929: M951-11059759322 --> M10-16149602 0.0
+R2930: M951-11059759322 --> M46-16202360 0.0
+R2931: M952-11091684285 --> M134-26458504 548.0
+R2932: M952-11091684285 --> M572-3168140934 0.0
+R2933: M953-11091684288 --> M952-11091684285 548.0
+R2934: M954-11102162933 --> M318-119822318 0.0
+R2935: M955-11102162937 --> M316-119810196 544.0
+R2936: M955-11102162937 --> M133-26452257 0.0
+R2937: M956-11102162941 --> M316-119810196 0.0
+R2938: M956-11102162941 --> M954-11102162933 0.0
+R2939: M956-11102162941 --> M258-59940128 544.0
+R2940: M957-11102162960 --> M578-3215416066 0.0
+R2941: M958-11102162987 --> M313-118924884 0.0
+R2942: M959-11102162993 --> M764-8533006463 0.0
+R2943: M959-11102162993 --> M516-1764224977 0.0
+R2944: M960-11102162996 --> M444-476567894 0.0
+R2945: M960-11102162996 --> M961-11102162998 0.0
+R2946: M961-11102162998 --> M444-476567894 0.0
+R2947: M961-11102162998 --> M959-11102162993 0.0
+R2948: M962-11161081087 --> M352-248071903 0.0
+R2949: M962-11161081087 --> M884-10177913518 0.0
+R2950: M962-11161081087 --> M963-11161081090 150.0
+R2951: M962-11161081087 --> M581-3299015890 0.0
+R2952: M963-11161081090 --> M351-248071682 0.0
+R2953: M963-11161081090 --> M962-11161081087 0.0
+R2954: M963-11161081090 --> M342-235329965 300.0
+R2955: M963-11161081090 --> M659-6944630655 0.0
+R2956: M964-11161081102 --> M965-11161081103 150.0
+R2957: M964-11161081102 --> M247-59150869 0.0
+R2958: M965-11161081103 --> M348-248067594 150.0
+R2959: M965-11161081103 --> M966-11161117708 0.0
+R2960: M966-11161117708 --> M967-11161117713 150.0
+R2961: M966-11161117708 --> M574-3196822744 0.0
+R2962: M967-11161117713 --> M345-248067036 0.0
+R2963: M967-11161117713 --> M964-11161081102 150.0
+R2964: M968-11169853370 --> M529-1917615164 0.0
+R2965: M968-11169853370 --> M158-27435157 0.0
+R2966: M968-11169853370 --> M528-1917615158 0.0
+R2967: M969-11169853384 --> M158-27435157 0.0
+R2968: M969-11169853384 --> M968-11169853370 0.0
+R2969: M970-11169992582 --> M869-9832586995 0.0
+R2970: M972-11193380602 --> M591-3502423706 0.0
+R2971: M972-11193380602 --> M260-60361369 1348.25
+R2972: M973-11193380606 --> M972-11193380602 150.0
+R2973: M974-11193380611 --> M976-11193380617 0.0
+R2974: M975-11193380612 --> M980-11193380633 0.0
+R2975: M975-11193380612 --> M592-3502423707 0.0
+R2976: M976-11193380617 --> M77-26398280 0.0
+R2977: M976-11193380617 --> M589-3502423089 0.0
+R2978: M977-11193380623 --> M591-3502423706 1198.25
+R2979: M977-11193380623 --> M975-11193380612 0.0
+R2980: M978-11193380624 --> M981-11193405738 150.0
+R2981: M978-11193380624 --> M975-11193380612 0.0
+R2982: M979-11193380629 --> M978-11193380624 150.0
+R2983: M979-11193380629 --> M974-11193380611 0.0
+R2984: M980-11193380633 --> M979-11193380629 0.0
+R2985: M980-11193380633 --> M590-3502423694 0.0
+R2986: M981-11193405738 --> M977-11193380623 1198.25
+R2987: M982-11193405739 --> M978-11193380624 0.0
+R2988: M982-11193405739 --> M981-11193405738 1048.25
+R2989: M983-11199438780 --> M415-476283359 86.0
+R2990: M983-11199438780 --> M418-476287156 0.0
+R2991: M984-11210957110 --> M985-11210957111 7.0
+R2992: M984-11210957110 --> M986-11210957113 0.0
+R2993: M985-11210957111 --> M930-10968683492 0.0
+R2994: M985-11210957111 --> M929-10968683491 7.0
+R2995: M986-11210957113 --> M984-11210957110 7.0
+R2996: M986-11210957113 --> M944-10968959551 0.0
+R2997: M987-11210966326 --> M984-11210957110 0.0
+R2998: M988-11210974738 --> M931-10968683497 0.0
+R2999: M988-11210974738 --> M932-10968683498 0.0
+R3000: M989-11210974741 --> M889-10694661878 7.0
+R3001: M990-11267698285 --> M237-53456807 0.0
+R3002: M990-11267698285 --> M344-235884356 0.0
+R3003: M991-11415662417 --> M305-114136375 0.0
+R3004: M991-11415662417 --> M615-4453102275 0.0
+R3005: M992-11464139217 --> M590-3502423694 0.0
+R3006: M992-11464139217 --> M974-11193380611 0.0
+R3007-artificial_secrete: M359-269548288 -->  2000.0
+R3008-artificial_secrete: M74-20282615 -->  2000.0
+R3009-artificial_secrete: M44-16202327 -->  2000.0
+R3010-artificial_secrete: M29-16179368 -->  2000.0
+R3011-artificial_secrete: M141-26505763 -->  2000.0
+R3012-artificial_secrete: M134-26458504 -->  2000.0
+R3013-artificial_secrete: M201-33632882 -->  2000.0
+R3014-artificial_secrete: M32-16179419 -->  2000.0
+R3015-artificial_secrete: M487-1631431654 -->  2000.0
